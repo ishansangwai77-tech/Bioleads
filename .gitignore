@@ -19,11 +19,11 @@ ENV/
 .env
 .env.local
 
-# Data files (optional - remove if you want to include sample data)
-data/raw/*.json
-data/processed/*.json
-data/output/*.json
-data/output/*.csv
+# Data files (optional - uncomment to exclude)
+# data/raw/*.json
+# data/processed/*.json
+# data/output/*.json
+# data/output/*.csv - INCLUDED for Streamlit Cloud deployment
 
 # Keep .gitkeep files
 !data/raw/.gitkeep
