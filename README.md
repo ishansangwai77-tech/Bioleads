@@ -1,6 +1,6 @@
 # 🧬 BioLeads - B2B Lead Generation Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bioleads-ishansangwai77-tech.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bioleads-ai.streamlit.app/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,7 +8,7 @@ A web scraping and lead scoring system for biotech companies selling **3D in-vit
 
 ## 🚀 Live Demo
 
-**👉 [View Live Dashboard](https://bioleads-ishansangwai77-tech.streamlit.app)**
+**👉 [View Live Dashboard](https://bioleads-ai.streamlit.app/)**
 
 ## 🎯 Features
 
