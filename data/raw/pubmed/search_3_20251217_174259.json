@@ -1,0 +1,267 @@
+[
+  {
+    "pmid": "35047893",
+    "title": "Current Perspective: 3D Spheroid Models Utilizing Human-Based Cells for Investigating Metabolism-Dependent Drug-Induced Liver Injury.",
+    "abstract": "Drug-induced liver injury (DILI) remains a leading cause for the withdrawal of approved drugs. This has significant financial implications for pharmaceutical companies, places increasing strain on global health services, and causes harm to patients. For these reasons, it is essential that ",
+    "authors": [
+      {
+        "last_name": "Cox",
+        "first_name": "Christopher R",
+        "name": "Christopher R Cox",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      },
+      {
+        "last_name": "Lynch",
+        "first_name": "Stephen",
+        "name": "Stephen Lynch",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      },
+      {
+        "last_name": "Goldring",
+        "first_name": "Christopher",
+        "name": "Christopher Goldring",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      },
+      {
+        "last_name": "Sharma",
+        "first_name": "Parveen",
+        "name": "Parveen Sharma",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      }
+    ],
+    "journal": "Frontiers in medical technology",
+    "pub_date": "2020",
+    "keywords": []
+  },
+  {
+    "pmid": "38026892",
+    "title": "3D bioprinting of dECM-incorporated hepatocyte spheroid for simultaneous promotion of cell-cell and -ECM interactions.",
+    "abstract": "The cell spheroid technology, which greatly enhances cell-cell interactions, has gained significant attention in the development of ",
+    "authors": [
+      {
+        "last_name": "Kim",
+        "first_name": "Min Kyeong",
+        "name": "Min Kyeong Kim",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      },
+      {
+        "last_name": "Jeong",
+        "first_name": "Wonwoo",
+        "name": "Wonwoo Jeong",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      },
+      {
+        "last_name": "Jeon",
+        "first_name": "Seunggyu",
+        "name": "Seunggyu Jeon",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      },
+      {
+        "last_name": "Kang",
+        "first_name": "Hyun-Wook",
+        "name": "Hyun-Wook Kang",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      }
+    ],
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "pub_date": "2023",
+    "keywords": []
+  },
+  {
+    "pmid": "34638555",
+    "title": "Three-Dimensional Liver Culture Systems to Maintain Primary Hepatic Properties for Toxicological Analysis In Vitro.",
+    "abstract": "Drug-induced liver injury (DILI) is the major reason for failures in drug development and withdrawal of approved drugs from the market. Two-dimensional cultures of hepatocytes often fail to reliably predict DILI: hepatoma cell lines such as HepG2 do not reflect important primary-like hepatic properties and primary human hepatocytes (pHHs) dedifferentiate quickly in vitro and are, therefore, not suitable for long-term toxicity studies. More predictive liver in vitro models are urgently required in drug development and compound safety evaluation. This review discusses available human hepatic cell types for in vitro toxicology analysis and their usage in established and emerging three-dimensional (3D) culture systems. Generally, 3D cultures maintain or improve primary hepatic functions (including expression of drug-metabolizing enzymes) of different liver cells for several weeks of culture, thus allowing long-term and repeated-dose toxicity studies. Spheroid cultures of pHHs have been comprehensively tested, but also other cell types such as HepaRG benefit from 3D culture systems. Emerging 3D culture techniques include usage of induced pluripotent stem-cell-derived hepatocytes and primary-like upcyte cells, as well as advanced culture techniques such as microfluidic liver-on-a-chip models. In-depth characterization of existing and emerging 3D hepatocyte technologies is indispensable for successful implementation of such systems in toxicological analysis.",
+    "authors": [
+      {
+        "last_name": "Kammerer",
+        "first_name": "Sarah",
+        "name": "Sarah Kammerer",
+        "affiliation": "Institute of Biotechnology, Brandenburg University of Technology Cottbus-Senftenberg, Universitätsplatz 1, 01968 Senftenberg, Germany.",
+        "orcid": "0000-0002-9284-2242"
+      }
+    ],
+    "journal": "International journal of molecular sciences",
+    "pub_date": "2021",
+    "keywords": [
+      "Bioreactors",
+      "Cell Culture Techniques",
+      "Hepatocytes",
+      "Humans",
+      "Primary Cell Culture",
+      "Spheroids, Cellular",
+      "Toxicity Tests",
+      "Toxicology"
+    ]
+  },
+  {
+    "pmid": "35237587",
+    "title": "Applied Hepatic Bioengineering: Modeling the Human Liver Using Organoid and Liver-on-a-Chip Technologies.",
+    "abstract": "The liver is the most important metabolic hub of endo and xenobiotic compounds. Pre-clinical studies using rodents to evaluate the toxicity of new drugs and cosmetics may produce inconclusive results for predicting clinical outcomes in humans, moreover being banned in the European Union. Human liver modeling using primary hepatocytes presents low reproducibility due to batch-to-batch variability, while iPSC-derived hepatocytes in monolayer cultures (2D) show reduced cellular functionality. Here we review the current status of the two most robust ",
+    "authors": [
+      {
+        "last_name": "Telles-Silva",
+        "first_name": "Kayque Alves",
+        "name": "Kayque Alves Telles-Silva",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      },
+      {
+        "last_name": "Pacheco",
+        "first_name": "Lara",
+        "name": "Lara Pacheco",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      },
+      {
+        "last_name": "Komatsu",
+        "first_name": "Sabrina",
+        "name": "Sabrina Komatsu",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      },
+      {
+        "last_name": "Chianca",
+        "first_name": "Fernanda",
+        "name": "Fernanda Chianca",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      },
+      {
+        "last_name": "Caires-Júnior",
+        "first_name": "Luiz Carlos",
+        "name": "Luiz Carlos Caires-Júnior",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      },
+      {
+        "last_name": "Araujo",
+        "first_name": "Bruno Henrique Silva",
+        "name": "Bruno Henrique Silva Araujo",
+        "affiliation": "Lieber Institute for Brain Development, School of Medicine, Johns Hopkins University, Baltimore, MD, United States."
+      },
+      {
+        "last_name": "Goulart",
+        "first_name": "Ernesto",
+        "name": "Ernesto Goulart",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      },
+      {
+        "last_name": "Zatz",
+        "first_name": "Mayana",
+        "name": "Mayana Zatz",
+        "affiliation": "Human Genome and Stem-Cell Research Center (HUG-CEL), Institute of Biosciences, University of Sao Paulo (USP), Sao Paulo, Brazil."
+      }
+    ],
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "pub_date": "2022",
+    "keywords": []
+  },
+  {
+    "pmid": "40774642",
+    "title": "Evaluating cannabidiol-induced liver injury with and without valproate using a three-dimensional human hepatocyte spheroid model.",
+    "abstract": "Cannabidiol (CBD) and valproate (VPA) are anti-epileptic medications commonly co-prescribed to treat seizures due to Lennox-Gastaut syndrome, Dravet syndrome, and tuberous sclerosis complex in children. Clinical trial data have demonstrated that CBD carries a risk for severe hepatotoxicity that is greatly increased when prescribed with VPA through an unknown mechanism. The aim of this study was to investigate CBD-induced liver injury in combination with VPA using an in vitro liver model. Three-dimensional human hepatocyte spheroids are an emerging in vitro system that allows investigation of long-term toxicity. Spheroids derived from primary human hepatocytes were treated with vehicle control, 2-200 μM CBD, 0.5-20 mM VPA, CBD + VPA, and 0.1-10 mM acetaminophen (positive control). After 24 h, 8 days, and 15 days of exposure, spheroids were analyzed for ATP depletion, urea production, and CBD and VPA metabolite generation. Untargeted metabolomic analysis was also conducted. A delayed-onset, dose-dependent hepatotoxicity was observed in spheroids exposed to each drug treatment compared to vehicle control. This study is the first to recapitulate the hepatotoxic drug interaction of CBD and VPA in vitro and demonstrates the utility of human hepatocyte spheroids for toxicity studies. Future work is needed to examine mechanisms of CBD-induced hepatotoxicity with VPA.",
+    "authors": [
+      {
+        "last_name": "Beers",
+        "first_name": "Jessica L",
+        "name": "Jessica L Beers",
+        "affiliation": "Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States of America; Department of Pharmaceutics, University of Washington School of Pharmacy, Seattle, WA, United States of America."
+      },
+      {
+        "last_name": "Harvey",
+        "first_name": "Shalon L",
+        "name": "Shalon L Harvey",
+        "affiliation": "Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States of America."
+      },
+      {
+        "last_name": "Lanphier",
+        "first_name": "Raeanne M",
+        "name": "Raeanne M Lanphier",
+        "affiliation": "Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States of America."
+      },
+      {
+        "last_name": "Rushing",
+        "first_name": "Blake R",
+        "name": "Blake R Rushing",
+        "affiliation": "Nutrition Research Institute, University of North Carolina at Chapel Hill, Kannapolis, NC, United States of America."
+      },
+      {
+        "last_name": "McRitchie",
+        "first_name": "Susan L",
+        "name": "Susan L McRitchie",
+        "affiliation": "Nutrition Research Institute, University of North Carolina at Chapel Hill, Kannapolis, NC, United States of America."
+      },
+      {
+        "last_name": "Sumner",
+        "first_name": "Susan J",
+        "name": "Susan J Sumner",
+        "affiliation": "Nutrition Research Institute, University of North Carolina at Chapel Hill, Kannapolis, NC, United States of America."
+      },
+      {
+        "last_name": "Jackson",
+        "first_name": "Klarissa D",
+        "name": "Klarissa D Jackson",
+        "affiliation": "Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC, United States of America. Electronic address: klarissa.jackson@unc.edu.",
+        "email": "klarissa.jackson@unc.edu"
+      }
+    ],
+    "journal": "Toxicology in vitro : an international journal published in association with BIBRA",
+    "pub_date": "2025",
+    "keywords": [
+      "Humans",
+      "Valproic Acid",
+      "Cannabidiol",
+      "Hepatocytes",
+      "Chemical and Drug Induced Liver Injury",
+      "Spheroids, Cellular",
+      "Anticonvulsants",
+      "Adenosine Triphosphate",
+      "Cells, Cultured",
+      "Urea"
+    ]
+  },
+  {
+    "pmid": "32419588",
+    "title": "Three-dimensional liver models: state of the art and their application for hepatotoxicity evaluation.",
+    "abstract": "While alternative methods for toxicity testing using re-constructed human skin and cornea have been written into guidelines and adopted by regulatory authorities, three-dimensional (3D) liver models are currently applied in the industrial settings for hepatotoxicity screening and prediction. These 3D liver models can recapitulate the architecture, functionality and toxicity response of the native liver, demonstrated by a set of related hallmarks. In this comprehensive review, non-scaffold and scaffold-based methods available for 3D liver model formation are introduced, with an emphasis on their advantages and drawbacks. We then focus on the characteristics of primary human hepatocytes, stem cell derived hepatocyte like cells, and immortalized hepatic cell lines as cell resources for model reconstruction. Primary hepatocytes are generally regarded to be superior to other cell types due to their comparable metabolic profiles to the native liver. Additionally, the application of 3D liver models (mostly liver spheroids) on the evaluation of drug induced liver injury and chronic liver diseases (steatosis, cirrhosis, cholestasis), as well as the potential of nanomaterials to introduce hepatotoxicity are summarized. Finally, the global 3D cell market from 3D liver model manufacturing to the contract service of ",
+    "authors": [
+      {
+        "last_name": "Zhang",
+        "first_name": "Xihui",
+        "name": "Xihui Zhang",
+        "affiliation": "State Key Laboratory of Radiation Medicine and Protection, School of Radiation Medicine and Protection, School for Radiological and Interdisciplinary Sciences (RAD-X), Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions, Soochow University, Suzhou, P. R. China."
+      },
+      {
+        "last_name": "Jiang",
+        "first_name": "Tianyan",
+        "name": "Tianyan Jiang",
+        "affiliation": "State Key Laboratory of Radiation Medicine and Protection, School of Radiation Medicine and Protection, School for Radiological and Interdisciplinary Sciences (RAD-X), Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions, Soochow University, Suzhou, P. R. China."
+      },
+      {
+        "last_name": "Chen",
+        "first_name": "Dandan",
+        "name": "Dandan Chen",
+        "affiliation": "State Key Laboratory of Radiation Medicine and Protection, School of Radiation Medicine and Protection, School for Radiological and Interdisciplinary Sciences (RAD-X), Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions, Soochow University, Suzhou, P. R. China."
+      },
+      {
+        "last_name": "Wang",
+        "first_name": "Qi",
+        "name": "Qi Wang",
+        "affiliation": "Institute for Control of Chinese Traditional Medicine and Ethnic Medicine, National Institutes for Food and Drug Control (NIFDC), China Food and Drug Administration (CFDA), Beijing, P. R. China."
+      },
+      {
+        "last_name": "Zhang",
+        "first_name": "Leshuai W",
+        "name": "Leshuai W Zhang",
+        "affiliation": "State Key Laboratory of Radiation Medicine and Protection, School of Radiation Medicine and Protection, School for Radiological and Interdisciplinary Sciences (RAD-X), Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions, Soochow University, Suzhou, P. R. China.",
+        "orcid": "0000-0002-6919-9180"
+      }
+    ],
+    "journal": "Critical reviews in toxicology",
+    "pub_date": "2020",
+    "keywords": [
+      "Chemical and Drug Induced Liver Injury",
+      "Drug-Related Side Effects and Adverse Reactions",
+      "Hepatocytes",
+      "Imaging, Three-Dimensional",
+      "Liver",
+      "Models, Biological",
+      "Toxicity Tests"
+    ]
+  }
+]

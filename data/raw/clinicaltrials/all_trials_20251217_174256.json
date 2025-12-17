@@ -1,0 +1,2256 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02495337",
+        "briefTitle": "Tissue Collection Protocol for Gastroesophageal Cancers",
+        "officialTitle": "Tissue Collection for Gastro-esophageal Cancer Primary Cell Line Establishment"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2015-05"
+        },
+        "completionDateStruct": {
+          "date": "2030-12"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "University Health Network, Toronto",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "This proposed collection of primary tumor cells lines will benefit esophageal cancer research within the University Health Network. This collection of gastro-esophageal tumor samples will be used to grow primary tumor cell lines, which will provide researchers with ready samples of various gastro-esophageal cancers. This will help to address the issue of access to these cell lines due to the limited number of patients with gastro-esophageal tumors, and high rates of contamination."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Esophageal Cancer"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jonathan Yeung",
+            "affiliation": "University Health Network, Toronto",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University Health Network: Toronto General Hospital",
+            "city": "Toronto",
+            "state": "Ontario",
+            "country": "Canada"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07220239",
+        "briefTitle": "Menstrual Cup for Early Endometrial Cancer Detection in Lynch Syndrome",
+        "officialTitle": "Menstrual Cup-based Endometrial Collection as an Alternative to Endometrial Biopsy in Lynch Syndrome Patients"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2025-11-20"
+        },
+        "completionDateStruct": {
+          "date": "2026-09"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Jessica D. St. Laurent, MD",
+          "investigatorTitle": "Director, Gynecologic Oncology Laboratory",
+          "investigatorAffiliation": "Brigham and Women's Hospital"
+        },
+        "leadSponsor": {
+          "name": "Jessica D. St. Laurent, MD",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Study Goal:\n\nThis pilot study wants to find out if using a menstrual cup can be a good, non-invasive way to collect samples from the lining of the uterus (called the endometrium) to help screen for endometrial cancer. This is especially important for women who have a higher chance of getting this cancer, such as those with a genetic condition called Lynch syndrome.\n\nMain Questions the Study Will Answer:\n\n1. Can a menstrual cup collect enough uterine lining (endometrial tissue) for doctors to examine under a microscope?\n2. Are the samples from the menstrual cup as useful for diagnosis as samples taken using the usual method (called an endometrial biopsy or EMB)?\n3. Is using a menstrual cup at home easy, effective, and comfortable for participants?\n4. Can scientists grow small lab models of the uterus (called organoids) from the menstrual cup samples and from biopsy samples?\n\nWhat Will Happen in the Study:\n\n* Participants will use a menstrual cup at home to collect menstrual blood.\n* They will also have a standard endometrial biopsy done by a healthcare provider.\n* After both collections, participants will fill out a short survey about how comfortable and easy it was to use the menstrual cup.\n\nWhat the Study Will Measure:\n\n* Feasibility: How well participants are able to use the menstrual cup and send in the sample.\n* Sample Quality: Whether the menstrual cup collects enough good-quality tissue for testing, and how it compares to biopsy samples.\n* Participant Experience: How women feel about using the menstrual cup, based on the survey.\n* Lab Testing: Whether researchers can successfully grow endometrial organoids from both types of samples.\n\nWhy This Study Matters: If this method works, it could offer a gentler, more convenient way for women to get checked for endometrial cancer-especially those who need regular screening. It could also make it easier to collect samples for research and improve early detection of cancer."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Endometrial Cancer",
+          "Lynch Syndrome",
+          "Screening",
+          "Early Detection of Cancer"
+        ],
+        "keywords": [
+          "Endometrial Cancer",
+          "Lynch Syndrome",
+          "Screening",
+          "Early detection",
+          "Organoids"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "NA"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jessica D St. Laurent, MD",
+            "affiliation": "Brigham and Women's Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Dana-Farber Cancer Institute",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04478877",
+        "briefTitle": "Establishment and Characterization of Meningioma Patient-derived Organoids",
+        "officialTitle": "Establishment and Characterization of Meningioma Patient-derived Organoids"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2020-05-23"
+        },
+        "completionDateStruct": {
+          "date": "2023-08-31"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "George KC Wong",
+          "investigatorTitle": "Clinical Professor",
+          "investigatorAffiliation": "Chinese University of Hong Kong"
+        },
+        "leadSponsor": {
+          "name": "Chinese University of Hong Kong",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "In this study, meningioma organoids will be established from patients' tissues and the characterization of the organoid will be performed."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Meningioma"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "George KC Wong",
+            "affiliation": "Chinese University of Hong Kong",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Department of Surgery, The Chinese University of Hong Kong",
+            "city": "Hong Kong",
+            "country": "Hong Kong"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07252986",
+        "briefTitle": "Clinical Translation Research on a Multi-omics Breast Cancer Distant Metastasis Prediction Model Empowered by Artificial Intelligence",
+        "officialTitle": "A Multi-omics Breast Cancer Distant Metastasis Prediction Model Empowered by Artificial Intelligence and Its Clinical Translation Research"
+      },
+      "statusModule": {
+        "overallStatus": "NOT_YET_RECRUITING",
+        "startDateStruct": {
+          "date": "2025-12-01"
+        },
+        "completionDateStruct": {
+          "date": "2028-12-30"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Jian Huang",
+          "investigatorTitle": "Head of Breast Surgery Department",
+          "investigatorAffiliation": "Second Affiliated Hospital, School of Medicine, Zhejiang University"
+        },
+        "leadSponsor": {
+          "name": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Breast cancer is one of the most common malignancies in women worldwide, and distant metastasis is the main cause of poor prognosis and death. This project aims to construct a precision prediction system based on multi-omics (digital pathology, immunohistochemistry, proteomics, gene sequencing) and artificial intelligence to predict distant and organ-specific metastasis (bone, lung, liver, brain) in breast cancer, analyze its mechanisms, and provide new solutions for precision medicine."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Breast",
+          "Breast Cancer",
+          "Pathology"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "The Second Affiliated Hospital, Zhejiang University School of Medicine",
+            "city": "Hangzhou",
+            "state": "Zhejiang",
+            "country": "China"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06584851",
+        "briefTitle": "3D-Microscopic Muscle Architecture in Cerebral Palsy",
+        "officialTitle": "Evaluation of Microscopic Muscle Properties in Growing Children With Cerebral Palsy and Their Relation to Macroscopic Muscle Properties"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2019-05-02"
+        },
+        "completionDateStruct": {
+          "date": "2028-12"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Kaat Desloovere",
+          "investigatorTitle": "Prof. dr.",
+          "investigatorAffiliation": "Universitaire Ziekenhuizen KU Leuven"
+        },
+        "leadSponsor": {
+          "name": "Universitaire Ziekenhuizen KU Leuven",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "The focus of this study is to understand and define the mechanisms of the altered muscle development and growth on a microscopic level within a long-term perspective in children with cerebral palsy and to relate these findings to muscle macroscopic properties defined by muscle imaging, to neuromuscular symptoms and to treatment.\n\nThis study aims to (1) evaluate intrinsic microscopic muscle properties of young growing children with CP, and (2) to evaluate these muscle properties in relation to macroscopic properties, neuromuscular symptoms and to treatment.\n\nImproved understanding of changes in microscopic muscle properties, and how they relate to macroscopic properties and to the neuromuscular symptoms as well as how they are influenced by treatment, has the potential to delineate CP phenotypes prone to intervention and to optimize treatment protocols or develop new treatments, leading to new avenues for improving function in CP.\n\nThe method to study microscopic muscle properties involves analysis of muscle biopsies (histological / immunohistochemistry analysis, SC and IC culture, gene expression). Biopsies will be collected using the minimally invasive percutaneous needle microbiopsy technique, suitable for collecting repeated samples over time in the same individual while still leading to sufficient tissue of good quality for subsequent analysis1,2. For the children with CP, the local hospital's tradition of applying general anesthesia for delivering BTX injections will be exploited to collect the muscle samples prior to the BTX session and the one-year follow-up, or general anesthesia planned for orthopedic surgery or diagnostic imaging such as MRI, etc. For the collection of the samples 3 months before the BTX session, as well as 3 months and 6 months after BTX injections, the common approach for microbiospy collection will be applied, with local sedation on the skin (Rapydan©) and fascia (Xylocaine©) and local anesthesia by using Kalinox© (nitrous oxide in oxygen) under supervision of the University Hospital PROSA team. Biopsies of TD muscles will be collected in children with no history of neurological disorder, nor musculoskeletal problems at the level of the gastrocnemius or semitendinosus, at the time of upper limb orthopedic or trauma surgery and thus always under general anesthesia. Ultrasound guided percutaneous muscle biopsy has been performed in children (2 months-18 years)3,4 and has proven to be safe and well-tolerated. A pilot study (S61110) was conducted to confirm that the microbiopsy technique is suitable for the analysis of microscopic muscle properties and is well-tolerated in children with CP.\n\nTwo specific research goals are planned, with hypotheses emerging from literature."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Spastic Cerebral Palsy"
+        ],
+        "keywords": [
+          "Spastic cerebral palsy",
+          "Microscopic muscle properties",
+          "Muscle micro-biopsies",
+          "3D freehand ultrasound",
+          "Histology",
+          "Cell culture",
+          "CP-phenotypes"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Kaat Desloovere, prof.dr.",
+            "affiliation": "Department of Rehabilitation Sciences, KU Leuven, Belgium",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "UZ Leuven",
+            "city": "Leuven",
+            "state": "Vlaams-Brabant",
+            "country": "Belgium"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07099443",
+        "briefTitle": "Determinants of the Response to BTK Degraders (BTKd) in Double Refractory CLL",
+        "officialTitle": "Determinants of the Response to BTK Degraders (BTKd) in Double Refractory Chronic Lymphocytic Leukemia (CLL)"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2025-10-09"
+        },
+        "completionDateStruct": {
+          "date": "2039-09-15"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Nantes University Hospital",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "The aim of the REBELLE cohort - bio-collection is to collect samples from patients with Chronic Lymphocytic Leukemia (CLL), to facilitate access for the National Institute of Health and Medical Research (INSERM) to patients with double-refractory CLL. To do this, an additional blood or bone marrow sample to those planned in the context of patient care or a residual lymph node biopsy sample will be collected after signing consent. These samples will first be sent to the Filothèque for temporary storage, and will then be transferred to CRCI²NA (Nantes - Angers Cancer and Immunology Research Center) for analysis with the aim of studying the mechanisms of resistance and response to BTK degraders (BTKd)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Chronic Lymphocytic Leukemia",
+          "Refractory Chronic Lymphocytic Leukemia"
+        ],
+        "keywords": [
+          "Chronic Lymphocytic Leukemia",
+          "Bruton tyrosine kinase inhibitors",
+          "BCL-2 inhibitors",
+          "BTK degraders"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Anne LOK, MD, PhD",
+            "affiliation": "Hospital of Nantes",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "CHU de Angers",
+            "city": "Angers",
+            "country": "France"
+          },
+          {
+            "facility": "CHU de Bordeaux",
+            "city": "Bordeaux",
+            "country": "France"
+          },
+          {
+            "facility": "Institut Bergonié",
+            "city": "Bordeaux",
+            "country": "France"
+          },
+          {
+            "facility": "CHU de Clermont-Ferrand",
+            "city": "Clermont-Ferrand",
+            "country": "France"
+          },
+          {
+            "facility": "CHD Vendée",
+            "city": "La Roche-sur-Yon",
+            "country": "France"
+          },
+          {
+            "facility": "Centre Léon Bernard",
+            "city": "Lyon",
+            "country": "France"
+          },
+          {
+            "facility": "Institut Paoli-Calmettes (Marseille)",
+            "city": "Marseille",
+            "country": "France"
+          },
+          {
+            "facility": "CHU de Montpellier",
+            "city": "Montpellier",
+            "country": "France"
+          },
+          {
+            "facility": "CH Régional Universitaire de Nancy",
+            "city": "Nancy",
+            "country": "France"
+          },
+          {
+            "facility": "University Hospital",
+            "city": "Nantes",
+            "country": "France"
+          },
+          {
+            "facility": "Hôpital Avicenne (AP-HP)",
+            "city": "Paris",
+            "country": "France"
+          },
+          {
+            "facility": "Hôpital Universitaire Pitié Salpêtrière de Paris",
+            "city": "Paris",
+            "country": "France"
+          },
+          {
+            "facility": "CHU de Poitiers",
+            "city": "Poitiers",
+            "country": "France"
+          },
+          {
+            "facility": "Centre Henri-Becquerel de Rouen",
+            "city": "Rouen",
+            "country": "France"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06463106",
+        "briefTitle": "Endothelial Dysfunction in Post-infection Fatigue Syndromes",
+        "officialTitle": "Endothelial Dysfunction in Post-infection Fatigue Syndromes"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2021-06-01"
+        },
+        "completionDateStruct": {
+          "date": "2022-12-01"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Francisco Westermeier",
+          "investigatorTitle": "PhD",
+          "investigatorAffiliation": "FH Joanneum Gesellschaft mbH"
+        },
+        "leadSponsor": {
+          "name": "FH Joanneum Gesellschaft mbH",
+          "class": "INDUSTRY"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Post-infection chronic fatigue syndromes, such as myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and post-COVID-19 condition (Long Covid), are conditions primarily characterized by debilitating fatigue. This fatigue can range from mild, where patients are still able to participate in some social activities (e.g., school, work), to moderate and severe, where sufferers are predominantly homebound and bedridden. As a result, ME/CFS and Long Covid not only negatively impact the quality of life of affected individuals and their caregivers but also represent a substantial and often silent burden on healthcare systems worldwide, including Austria. This is primarily because most cases remain undiagnosed due to the lack of standardized clinical assessments and diagnostic markers. Endothelial dysfunction, which is well known to affect blood flow, oxygen and nutrient delivery, and waste removal in the body, has been described as one of the key factors behind the symptoms experienced by ME/CFS and Long Covid patients. However, the mechanisms that might explain the development of endothelial dysfunction remain largely unexplored. Therefore, this project aims to evaluate key biological aspects related to the function of endothelial cells - a layer of cells lining blood vessels - using plasma samples from an Austrian cohort of ME/CFS and Long Covid patients. We expect that the findings from our study will provide new insights to better understand endothelial dysfunction in post-infection chronic fatigue syndromes, leading to improved patient stratification and tailored treatment alternatives."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Chronic Fatigue Syndrome",
+          "Long COVID"
+        ],
+        "keywords": [
+          "ME/CFS",
+          "Long COVID",
+          "Endothelial dysfunction"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "FH JOANNEUM University of Applied Sciences",
+            "city": "Graz",
+            "country": "Austria"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04826913",
+        "briefTitle": "High Throughput Screening Device Based on 3D Nano-matrices and 3D Tumors With Functional Vascularization",
+        "officialTitle": "High Throughput Screening Device Based on 3D Nano-matrices and 3D Tumors With Functional Vascularization"
+      },
+      "statusModule": {
+        "overallStatus": "UNKNOWN",
+        "startDateStruct": {
+          "date": "2021-04"
+        },
+        "completionDateStruct": {
+          "date": "2024-04"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "University Hospital, Strasbourg, France",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Almost 85% of new therapeutic molecules are abandoned before the clinical trial stage. Most of these failures currently concern cancer therapies.\n\nIn order to optimize the development of these molecules and allow the development of precision medicine, an innovative screening device that is as close as possible to in vivo is necessary.\n\nFor this reason, the platform the investigators are setting up takes into account tumor vascularization as well as the 3D microenvironment.\n\nThe platform the investigators intend to set up is based on 4 cornerstones:\n\n* the formation of patient-derived organoids seems to be the best option to take into account the microenvironment and cellular interactions.\n* the vascular network: the formation of a peri-tumoral vascular network, either by using HUVECS cells or by using endothelial cells from the patient.\n* the extracellular matrix, and the set of proteins it contains, is a major element of in vivo interaction. Moreover, the presence of a matrix is a key element for the development of vascularization in vitro.\n* Functional tumor microenvironment: peri-tumor vascularization is necessary but not sufficient to claim to recreate a tumor microenvironment. It must be functionalized, and this implies the use of a microfluidic system.\n\nThis ready-to-use platform will be used on tumor biopsies of the patient, to constitute a tool for personalized medicine. This could even be a future component of decision at multidisciplinary board meetings.\n\nThe main objective of our research is the constitution of organoids derived from the patient in order to select, via a screening device, the best anti-tumor therapy to administer to the patient.\n\nA secondary objective is to collect lymphocytes from the patient's blood in order to test the effectiveness of therapies mediated by the immune system (immunotherapy)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "NSCLC"
+        ],
+        "keywords": [
+          "organoids",
+          "drug testing",
+          "immunotherapy"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Les Hôpitaux Universitaires de Strasbourg",
+            "city": "Strasbourg",
+            "country": "France"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01455116",
+        "briefTitle": "The Cooling And Surviving Septic Shock Study (CASS)",
+        "officialTitle": "Randomized Trial to Determine Whether Mild Induced Hypothermia Can Reduce Mortality in Adult Patients With Septic Shock"
+      },
+      "statusModule": {
+        "overallStatus": "TERMINATED",
+        "startDateStruct": {
+          "date": "2011-11"
+        },
+        "completionDateStruct": {
+          "date": "2016-11"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Danish Procalcitonin Study Group",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Septic shock is in critically ill patients is a condition associated with a high rate of organ failure and hereto attributable mortality \\~45-55% Hypothesis: Mild Induced Hypothermia reduces the mortality of critically ill patients with septic shock by reducing organ metabolism, counteracting on microcirculatory thrombosis, genetically downregulating tissue apoptosis and by reducing bacterial growth rate and toxin production."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Septic Shock"
+        ],
+        "keywords": [
+          "Sepsis",
+          "Multi organ dysfunction syndrome",
+          "Mild Induced Hypothermia"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jens Ulrik S Jensen, MD, PhD",
+            "affiliation": "CHIP & PERSIMUNE, Rigshospitalet, University of Copenhagen",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Cleveland Clinic - Outcomes Research",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "country": "United States"
+          },
+          {
+            "facility": "Bispebjerg Hospital",
+            "city": "Copenhagen",
+            "state": "Capital Region",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Jens Ulrik S. Jensen",
+            "city": "Copenhagen",
+            "state": "Capital Region",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Gentofte Hospital",
+            "city": "Gentofte Municipality",
+            "state": "Capital Region",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Herlev Hospital",
+            "city": "Herlev",
+            "state": "Capital Region",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Nordsjællands Hospital, Hillerød",
+            "city": "Hillerød",
+            "state": "Capital Region",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Aarhus University Hospital, Skejby",
+            "city": "Aarhus",
+            "state": "Jutland",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Horsens Hospital",
+            "city": "Horsens",
+            "state": "Jutland",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Køge Hospital",
+            "city": "Køge",
+            "state": "Region Sealand",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Roskilde Hospital",
+            "city": "Roskilde",
+            "state": "Region Sealand",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Academic Medical Center",
+            "city": "Amsterdam",
+            "country": "Netherlands"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02778360",
+        "briefTitle": "Effectiveness of a Personalized Neurofeedback Training Device (ADHD@Home) in Attention-Deficit/Hyperactivity Disorder",
+        "officialTitle": "Effectiveness of a Personalized Neurofeedback Training Device (ADHD@Home) as Compared With Methylphenidate in the Treatment of Children and Adolescents With Attention-Deficit/Hyperactivity Disorder: A Multicentre Randomized Clinical Study"
+      },
+      "statusModule": {
+        "overallStatus": "UNKNOWN",
+        "startDateStruct": {
+          "date": "2016-08"
+        },
+        "completionDateStruct": {
+          "date": "2017-09"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Mensia Technologies SA",
+          "class": "INDUSTRY"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "The main objective of the study is to demonstrate the non-inferiority of the personalized Neurofeedback Training device versus Methylphenidate in the treatment of children and adolescents with Attention-Deficit/Hyperactivity Disorder."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Attention Deficit-Hyperactivity Disorder"
+        ],
+        "keywords": [
+          "Attention deficit",
+          "Neurofeedback",
+          "ADHD",
+          "Methylphenidate"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Michel Du Peloux, PhD",
+            "affiliation": "Mensia Technologies",
+            "role": "STUDY_DIRECTOR"
+          },
+          {
+            "name": "Diane Purper-Ouakil, MD/PhD",
+            "affiliation": "CHRU Montpellier",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "PSY Pluriel Centre europeen de psychologie medicale",
+            "city": "Brussels",
+            "country": "Belgium"
+          },
+          {
+            "facility": "Hôpital Erasme - Cliniques universitaires de Bruxelles",
+            "city": "Brussels",
+            "country": "Belgium"
+          },
+          {
+            "facility": "Centre Hospitalier Charles Perrens",
+            "city": "Bordeaux",
+            "country": "France"
+          },
+          {
+            "facility": "CHRU de Lille - Hôpital Fontan - Service de psychiatrie de l'enfant et de l'adolescent",
+            "city": "Lille",
+            "country": "France"
+          },
+          {
+            "facility": "Clinique LAUTREAMONT",
+            "city": "Lille",
+            "country": "France"
+          },
+          {
+            "facility": "Hospice Civil de Lyon - Hôpital Neurologique Service de Neuro-Psychiatrie de l'Enfant",
+            "city": "Lyon",
+            "country": "France"
+          },
+          {
+            "facility": "CHRU Montpellier",
+            "city": "Montpellier",
+            "country": "France"
+          },
+          {
+            "facility": "Universitätklinikum Erlangen",
+            "city": "Erlangen",
+            "state": "Bavaria",
+            "country": "Germany"
+          },
+          {
+            "facility": "Medical faculty of Mannheim/Heidelberg university",
+            "city": "Mannheim",
+            "country": "Germany"
+          },
+          {
+            "facility": "Puerta de Hierro Hospital - Department of Psychiatry",
+            "city": "Madrid",
+            "country": "Spain"
+          },
+          {
+            "facility": "Clinique des Grangettes",
+            "city": "Geneva",
+            "country": "Switzerland"
+          },
+          {
+            "facility": "Psychiatric Hospital, University of Zürich",
+            "city": "Zurich",
+            "country": "Switzerland"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06371274",
+        "briefTitle": "A Study on the Efficacy and Safety of Oral All-trans Retinoic Acid Combined With Toripalimab in TNBC.",
+        "officialTitle": "Efficacy and Safety Study of Oral All-trans Retinoic Acid Combined With Toripalimab in Patients With Inoperable Locally Advanced, Recurrent, or Metastatic Triple-negative Breast Cancer Who Had Failed Prior Second-line or Higher Standard Therapy."
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2024-10-10"
+        },
+        "completionDateStruct": {
+          "date": "2026-04-30"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Jian Liu",
+          "investigatorTitle": "chief pharmacist",
+          "investigatorAffiliation": "Zhejiang University"
+        },
+        "leadSponsor": {
+          "name": "First Affiliated Hospital of Zhejiang University",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "To evaluate the clinical efficacy and safety of oral all-trans retinoic acid in combination with toripalimab in patients with locally advanced, recurrent, or metastatic triple-negative breast cancer who had failed second-line and subsequent therapy."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Triple-negative Breast Cancer"
+        ],
+        "keywords": [
+          "all-trans retinoic acid",
+          "Toripalimab",
+          "triple-negative breast cancer",
+          "efficacy",
+          "safety"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "NA"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Xiaochen Zhang, MD",
+            "affiliation": "Zhejiang University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "The first affiliated hospital, Zhejiang University School of Medicine",
+            "city": "Hangzhou",
+            "state": "Zhejiang Province, P.R. China",
+            "country": "China"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00808600",
+        "briefTitle": "Empowerment of Lung and Heart-lung Transplant Patients",
+        "officialTitle": "Empowerment of Lung and Heart-lung Transplant Patients by a Multimodal Resource-activating Behavioural Training Programme and Cardiopulmonary Exercise - a Randomised Controlled Study"
+      },
+      "statusModule": {
+        "overallStatus": "UNKNOWN",
+        "startDateStruct": {
+          "date": "2009-10"
+        },
+        "completionDateStruct": {
+          "date": "2014-01"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Hannover Medical School",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Lung or combined heart-lung transplantation represents an established treatment strategy for patients with end-stage lung disease. Transplantation results in an increased exercise capacity, a better quality of life and - depending on the pulmonary disease - a prolonged life compared to the natural course of the pulmonary disease. However, even after successful organ transplantation, patients realise the often inflated, unrealistic character of their previous expectations due to their continuing dependence on medication, regular control examinations and a higher risk of infections and allograft rejections. Patients have to cope with erupting demands in family, social and work life. It becomes evident that their lives have changed forever. In this context, limitations in mental health like depression and reduced quality of life (QoL) as well as diminished compliance may emerge or even persist. By five years post-transplant, about one-half of the patients meet the criteria of an anxiety disorder. Symptoms of a clinically relevant depression or mood disorder occur in 10 to 15 % of lung transplant patients.\n\nIn addition, patients after lung transplantation are often in a poor physical condition and only hold a reduced functional status. Surgery itself, a prolonged weaning period during mechanical ventilation, sepsis, and especially the immunosuppressive medication may long-ranging or permanently limit physical activity, further reducing muscle mass and bodily function.\n\nSome positive effects of either psychological coping skills training or supervised exercise therapy after lung or heart-lung transplantation on QoL and functional status have been described in very few existing pilot studies with small numbers of patients and only short-term follow-up. In addition, although clear evidence points to a mutual amplifying effect of both psychological training and exercise therapy in patients coping with chronic disease, no such study has yet been conducted in the transplantation field.\n\nTherefore, the aim of the investigators randomised controlled study is to prove the differential benefit of a multi-modal resource-activating behavioural training programme combined with an intensified exercise training programme on functional status as well as on QoL in a four-armed design. The investigators hypotheses are: (H1) The multimodal resource-activating behavioural training programme will show better out-comes in the measures of global health-related QoL compared to a relaxation group. (H2) Participants in the intensified anaerobic exercise training will have better outcomes in the measures of exercise-related variables and lung function than the group with moderate aerobic exercise training. (H3) Participants in the behavioural intervention programme and the intensified exercise training will have better outcomes in the measures of global health-related QoL and exercise-related variables compared to the other groups."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Lung Transplantation",
+          "Heart-Lung Transplantation",
+          "\"Rehabilitation\"",
+          "Psychotherapy",
+          "Exercise Training"
+        ],
+        "keywords": [
+          "lung transplantation",
+          "heart-lung transplantation",
+          "rehabilitation",
+          "resource-activating training",
+          "anaerobic exercise training"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "NA"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Harald Gündel, Prof. Dr.",
+            "affiliation": "Dept. of Psychosomatics and Psychotherapy, Hannover Medical School",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Hannover Medical School",
+            "city": "Hanover",
+            "country": "Germany"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04826913",
+        "briefTitle": "High Throughput Screening Device Based on 3D Nano-matrices and 3D Tumors With Functional Vascularization",
+        "officialTitle": "High Throughput Screening Device Based on 3D Nano-matrices and 3D Tumors With Functional Vascularization"
+      },
+      "statusModule": {
+        "overallStatus": "UNKNOWN",
+        "startDateStruct": {
+          "date": "2021-04"
+        },
+        "completionDateStruct": {
+          "date": "2024-04"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "University Hospital, Strasbourg, France",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Almost 85% of new therapeutic molecules are abandoned before the clinical trial stage. Most of these failures currently concern cancer therapies.\n\nIn order to optimize the development of these molecules and allow the development of precision medicine, an innovative screening device that is as close as possible to in vivo is necessary.\n\nFor this reason, the platform the investigators are setting up takes into account tumor vascularization as well as the 3D microenvironment.\n\nThe platform the investigators intend to set up is based on 4 cornerstones:\n\n* the formation of patient-derived organoids seems to be the best option to take into account the microenvironment and cellular interactions.\n* the vascular network: the formation of a peri-tumoral vascular network, either by using HUVECS cells or by using endothelial cells from the patient.\n* the extracellular matrix, and the set of proteins it contains, is a major element of in vivo interaction. Moreover, the presence of a matrix is a key element for the development of vascularization in vitro.\n* Functional tumor microenvironment: peri-tumor vascularization is necessary but not sufficient to claim to recreate a tumor microenvironment. It must be functionalized, and this implies the use of a microfluidic system.\n\nThis ready-to-use platform will be used on tumor biopsies of the patient, to constitute a tool for personalized medicine. This could even be a future component of decision at multidisciplinary board meetings.\n\nThe main objective of our research is the constitution of organoids derived from the patient in order to select, via a screening device, the best anti-tumor therapy to administer to the patient.\n\nA secondary objective is to collect lymphocytes from the patient's blood in order to test the effectiveness of therapies mediated by the immune system (immunotherapy)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "NSCLC"
+        ],
+        "keywords": [
+          "organoids",
+          "drug testing",
+          "immunotherapy"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Les Hôpitaux Universitaires de Strasbourg",
+            "city": "Strasbourg",
+            "country": "France"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04859166",
+        "briefTitle": "Prospective Primary Human Lungcancer Organoids to Predict Treatment Response",
+        "officialTitle": "Prospective Primary Human Lungcancer Organoids to Predict Treatment Response"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2017-11-15"
+        },
+        "completionDateStruct": {
+          "date": "2022-10-01"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Maastricht Radiation Oncology",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Organoids are generated from tumor biopsies, taken during a standard procedure. and are a collection of organ-specific cell types that are able to self-organize in-vitro in a manner similar to the in-vivo situation (3D). They have the capability to facilitate in-depth analysis of patient's own tumor material at point of diagnosis and during progressive/recurrent disease. There is currently no published protocol to establish long-term lung cancer organoids from lung cancer patients. Such a methodology would enable the prospective identification of 'patient tailored optimal treatments\" as well as the derivation of predictive biomarkers for response and relapse. Apart from organoids, xenograft models also still have their merits. To generate PDX, tumor material will be retrieved from surgical specimens, cut in small pieces, transplanted in the recipient immune deficient animals either subcutaneously or implanted directly into the lung. A tumor with the median growth rate will be serially transplanted in vivo for further therapeutic experiments. Dedicated small animal irradiaton in our facility enables precise local irradiation of lung tumors with minimal radiation exposure of the surrounding normal tissues. Integrated cone beam computed tomography imaging system allows longitudinal monitoring of tumor response to novel treatments."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Lung Cancer"
+        ],
+        "keywords": [
+          "Organoids",
+          "Lung",
+          "Cancer"
+        ]
+      },
+      "designModule": {},
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Marc Vooijs, MD, PhD",
+            "affiliation": "Maastro",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Zuyderland Medical Center",
+            "city": "Heerlen",
+            "country": "Netherlands"
+          },
+          {
+            "facility": "Maastro",
+            "city": "Maastricht",
+            "country": "Netherlands"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00166946",
+        "briefTitle": "Effects of Arsenic on Keratinocytes in a Skin Equivalent Model",
+        "officialTitle": "Effects of Arsenic on Keratinocytes in a Skin Equivalent Model"
+      },
+      "statusModule": {
+        "overallStatus": "UNKNOWN",
+        "startDateStruct": {
+          "date": "2005-06"
+        },
+        "completionDateStruct": {
+          "date": "2008-01"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "National Taiwan University Hospital",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "We popose that arsenic-induced lymphocytes dysfunction plays an important role in biological mechanisms of arsenical Bowen's disease."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Bowen Disease"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "NA"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Hsin-Su Yu, MD PHD",
+            "affiliation": "National Taiwan Univesity Hospital, Dept. of Dermatology",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "National Taiwan University Hospital",
+            "city": "Taipei",
+            "state": "Taiwan, Province of China",
+            "country": "Taiwan"
+          },
+          {
+            "facility": "National Taiwan University Hospital",
+            "city": "Taipei",
+            "country": "Taiwan"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04750122",
+        "briefTitle": "Neoadjuvant Therapy Study Guided by Drug Screening in Vitro for HER2 Positive Early Breast Cancer Patients",
+        "officialTitle": "Neoadjuvant Therapy Study Guided by Drug Screening in Vitro Patient-derived Tumor-like Cell Clusters for HER2 Positive Early Breast Cancer Patients"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2021-03-28"
+        },
+        "completionDateStruct": {
+          "date": "2026-12-31"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Peking University People's Hospital",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Neoadjuvant treatment is an important treatment for early breast cancer patients. Patients with her2 enriched subtype who achieved pCR after neoadjuvant treatment would have longer survival. The neoadjuvant treatment for her2 positive patients include chemotherapy and targeted therapy. Although the pCR rate was high to 60% after use of trastuzumab and pertuzumab, but the adverse reaction of combined chemotherapy could not be negligible. Some studies have attempted chemotherapy-free treatment for her2 positive patients during neoadjuvant therapy. But, which patient could be exempted from chemotherapy and which drug could be omitted are still unknow before treatment. Drug sensitivity screening in vitro was a promising method for choosing chemotherapy. But there was no method could select effective drugs accurately for breast cancer patients until now.\n\nPreviously, investigators developed a patient-derived tumor-like cell clusters in vitro culture technology. Feasibility for guiding clinical treatment by drug sensitivity screening based on this technology have been explored by preliminary exploration with a well corresponding. And the results have been published. This study will explore whether drug screening in vitro patient-derived tumor-like cell clusters from breast cancer tissue could be a metheod for omitting chemotherapy for her2 positive participants."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "HER2-positive Early Breast Cancer"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Shu Wang, doctor",
+            "affiliation": "Peking University People's Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Peking University People'S Hospital",
+            "city": "Beijing",
+            "state": "Beijing Municipality",
+            "country": "China"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01698320",
+        "briefTitle": "Safety Study of Albuterol Spiromax® in Subjects With Asthma",
+        "officialTitle": "A Multi-Center 52-Week Study to Assess the Safety of Albuterol Spiromax® in Subjects With Asthma"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2012-10"
+        },
+        "completionDateStruct": {
+          "date": "2013-12"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Teva Branded Pharmaceutical Products R&D, Inc.",
+          "class": "INDUSTRY"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to evaluate the safety of Albuterol Spiromax® over 52 weeks during two dosing periods: (1) a 12-week, double-blind, placebo-controlled QID dosing period followed by (2) a 40-week, open-label PRN dosing period, and to evaluate Albuterol Spiromax® device performance through the life of the device during the study."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Asthma"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE3"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Teva Investigational Site 10169",
+            "city": "Huntington Beach",
+            "state": "California",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10157",
+            "city": "San Diego",
+            "state": "California",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10148",
+            "city": "Denver",
+            "state": "Colorado",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10159",
+            "city": "Denver",
+            "state": "Colorado",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10158",
+            "city": "Miami",
+            "state": "Florida",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10168",
+            "city": "Miami",
+            "state": "Florida",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10154",
+            "city": "Gainesville",
+            "state": "Georgia",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10161",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10162",
+            "city": "Bethesda",
+            "state": "Maryland",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10166",
+            "city": "Wheaton",
+            "state": "Maryland",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10151",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10142",
+            "city": "Plymouth",
+            "state": "Minnesota",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10152",
+            "city": "St Louis",
+            "state": "Missouri",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10146",
+            "city": "Bellevue",
+            "state": "Nebraska",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10160",
+            "city": "Skillman",
+            "state": "New Jersey",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10144",
+            "city": "Rochester",
+            "state": "New York",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10141",
+            "city": "High Point",
+            "state": "North Carolina",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10153",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10147",
+            "city": "Canton",
+            "state": "Ohio",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10143",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10167",
+            "city": "Sylvania",
+            "state": "Ohio",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10150",
+            "city": "Eugene",
+            "state": "Oregon",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10156",
+            "city": "Portland",
+            "state": "Oregon",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10155",
+            "city": "El Paso",
+            "state": "Texas",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10149",
+            "city": "New Braunfels",
+            "state": "Texas",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10145",
+            "city": "San Antonio",
+            "state": "Texas",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10170",
+            "city": "San Antonio",
+            "state": "Texas",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10163",
+            "city": "Burke",
+            "state": "Virginia",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10165",
+            "city": "Seattle",
+            "state": "Washington",
+            "country": "United States"
+          },
+          {
+            "facility": "Teva Investigational Site 10164",
+            "city": "Greenfield",
+            "state": "Wisconsin",
+            "country": "United States"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01242475",
+        "briefTitle": "A Trial of the C-Tb Skin Test, When Given Intradermally to Healthy Volunteers Previously Vaccinated With BCG",
+        "officialTitle": "A Phase IIa Specificity Trial of the Diagnostic Agent C-Tb, When Given Intradermally by the Mantoux Technique to Healthy Volunteers Previously Vaccinated With BCG"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2011-04"
+        },
+        "completionDateStruct": {
+          "date": "2011-11"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Statens Serum Institut",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "A new, more specific skin test to detect tuberculosis has been developed by Statens Serum Institut in Denmark. The new skin test is named C-Tb and like the current Tuberculin a positive test result will show as redness and/or swelling at the injection site, while a negative test will leave no reactions.\n\nThe aim of this study is to test the C-Tb skin test in healthy adults previously BCG vaccinated to determine if healthy non tuberculosis infected individuals has a truly negative test result (this is called determining the specificity of the skin test). To be able to compare the new skin test with the current Tuberculin skin test volunteers will be injected with both the C-Tb and the TST skin test."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Tuberculosis"
+        ],
+        "keywords": [
+          "tuberculosis",
+          "rdESAT-6",
+          "CFP-10",
+          "skin test",
+          "diagnostic test"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE2"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Birgit Thierry-Carstensen",
+            "affiliation": "Statens Serum Institut",
+            "role": "STUDY_DIRECTOR"
+          },
+          {
+            "name": "David JM Lewis, MD",
+            "affiliation": "Surrey Clinical Research Centre, University of Surrey",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Surrey Clinical Research Centre, University of Surrey",
+            "city": "Surrey",
+            "state": "Guildford, Surrey",
+            "country": "United Kingdom"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05024734",
+        "briefTitle": "Guiding Instillation in Non Muscle-invasive Bladder Cancer Based on Drug Screens in Patient Derived Organoids",
+        "officialTitle": "Guidance of Adjuvant Instillation in Intermediate Risk Non-muscle Invasive Bladder Cancer by Drug Screens in Patient Derived Organoids. A Single Center, Open-label, Phase II Trial With a Feasibility Endpoint. (GAIN-INST-TRIAL)"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {
+          "date": "2023-02-21"
+        },
+        "completionDateStruct": {
+          "date": "2027-10-31"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Roland Seiler-Blarer",
+          "investigatorTitle": "Chairman",
+          "investigatorAffiliation": "Hospital Centre Biel/Bienne"
+        },
+        "leadSponsor": {
+          "name": "Roland Seiler-Blarer",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "From patients with intermediate risk non-muscle invasive bladder cancer tumor (NMIBC) specimens will be harvested during transurethral resection. Fresh specimens will be cultured as patient derived organoids (PDO). After approx. 10 days, PDO are exposed to different drugs that are used as intravesical instillation agents in these patients (epirubicin, mitomycin, gemcitabine, docetaxel). After 2 days of exposure, PDO viability will be measured. The drug with the highest antitumor effect on PDO will be applied as weekly intravesical instillations 6 times. Thereafter, patients are followed according to the standard of care."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Bladder Cancer",
+          "Non-muscle Invasive"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE2"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Roland Seiler-Blarer, MD",
+            "affiliation": "Department of Urology",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Spitalzentrum Biel/Bienne",
+            "city": "Biel",
+            "country": "Switzerland"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00418886",
+        "briefTitle": "Efficacy Study Comparing ZD6474 in Combination With Pemetrexed and Pemetrexed Alone in 2nd Line NSCLC Patients",
+        "officialTitle": "A Phase III, Randomized, Double-blinded, Parallel Group, Multi-centre Study to Assess the Efficacy and Safety of ZD6474 (ZACTIMA™) in Combination With Pemetrexed (Alimta®) Versus Pemetrexed Alone in Patients With Locally-Advanced or Metastatic NSCLC"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2007-01"
+        },
+        "completionDateStruct": {
+          "date": "2023-02-14"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {},
+        "leadSponsor": {
+          "name": "Genzyme, a Sanofi Company",
+          "class": "INDUSTRY"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Non-small cell lung cancer (NSCLC) can be treated with drugs that kill tumour cells, stop them from dividing, or stop the growth of the blood supply that cancers need to grow and spread. Clinical research has shown that drugs that inhibit vascular endothelial growth factor receptor (VEGFR) or epidermal growth factor receptor (EGFR) signalling can increase overall survival in patients with advanced non-small cell lung cancer (NSCLC). Preclinical studies have shown that vandetanib (ZD6474) is an inhibitor of both VEGFR and EGFR signalling. Giving vandetanib may therefore inhibit the growth of cancer cells by blocking their blood supply and by stopping them from dividing. This lung cancer study is to investigate if adding vandetanib to Alimta (pemetrexed) is more effective than Alimta (pemetrexed) alone."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Non Small Cell Lung Cancer",
+          "Lung Cancer"
+        ],
+        "keywords": [
+          "NSCLC",
+          "Non Small Cell Lung Cancer"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "PHASE3"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Clinical Sciences & Operations",
+            "affiliation": "Sanofi",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Research Site",
+            "city": "Casa Grande",
+            "state": "Arizona",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Chandler",
+            "state": "Arizona",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Farmington",
+            "state": "Connecticut",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Stamford",
+            "state": "Connecticut",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Washington D.C.",
+            "state": "District of Columbia",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Orlando",
+            "state": "Florida",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Gainesville",
+            "state": "Georgia",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Skokie",
+            "state": "Illinois",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Sioux City",
+            "state": "Iowa",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Mount Sterling",
+            "state": "Kentucky",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Portland",
+            "state": "Maine",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Baltimore",
+            "state": "Maryland",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Rockville",
+            "state": "Maryland",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "St Louis",
+            "state": "Missouri",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Mineola",
+            "state": "New York",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Rochester",
+            "state": "New York",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Winston-Salem",
+            "state": "North Carolina",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Middletown",
+            "state": "Ohio",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Hilton Head Island",
+            "state": "South Carolina",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Austin",
+            "state": "Texas",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "country": "United States"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Avellaneda",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Buenos Aires",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Ciudad de Buenos Aires",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Córdoba",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "La Plata",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Ramos Mejía",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Salta",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Santa Fe",
+            "country": "Argentina"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Chermside",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Fitzroy",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Footscray",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Heidelberg",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Randwick",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "St Leonards",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Wodonga",
+            "country": "Australia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Brussels (Woluwé-St-Lambert)",
+            "country": "Belgium"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Leuven",
+            "country": "Belgium"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Liège",
+            "country": "Belgium"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Bogotá",
+            "country": "Colombia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Medellín",
+            "country": "Colombia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Pereira",
+            "country": "Colombia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Valledupar",
+            "country": "Colombia"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Avignon",
+            "country": "France"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Lyon",
+            "country": "France"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Paris",
+            "country": "France"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Pontoise",
+            "country": "France"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Strasbourg",
+            "country": "France"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Cologne",
+            "country": "Germany"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Hanover",
+            "country": "Germany"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Karlsruhe",
+            "country": "Germany"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Kassel",
+            "country": "Germany"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Leipzig",
+            "country": "Germany"
+          },
+          {
+            "facility": "Research Site",
+            "city": "N. Faliro",
+            "country": "Greece"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Pátrai",
+            "country": "Greece"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Thessaloniki",
+            "country": "Greece"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Hong Kong",
+            "country": "Hong Kong"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Ahmedabad",
+            "country": "India"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Vellore",
+            "country": "India"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Beer-Sheeva",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Haifa",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Jerusalem",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Kfar Saba",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Petah Tikva",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Safed",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Tel Litwinsky",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Ẕerifin",
+            "country": "Israel"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Genova",
+            "country": "Italy"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Milan",
+            "country": "Italy"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Orbassano",
+            "country": "Italy"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Roma",
+            "country": "Italy"
+          },
+          {
+            "facility": "Research Site",
+            "city": "S.Andrea Delle Fratte",
+            "country": "Italy"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Aguascalientes",
+            "country": "Mexico"
+          },
+          {
+            "facility": "Research Site",
+            "city": "México",
+            "country": "Mexico"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Puebla City",
+            "country": "Mexico"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Cebu City",
+            "country": "Philippines"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Manila",
+            "country": "Philippines"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Pasay",
+            "country": "Philippines"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Quezon City",
+            "country": "Philippines"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Lisbon",
+            "country": "Portugal"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Santa Maria da Feira",
+            "country": "Portugal"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Setúbal",
+            "country": "Portugal"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Cape Town",
+            "country": "South Africa"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Durban",
+            "country": "South Africa"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Johannesburg",
+            "country": "South Africa"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Port Elizabeth",
+            "country": "South Africa"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Pretoria",
+            "country": "South Africa"
+          },
+          {
+            "facility": "Research Site",
+            "city": "A Coruña",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Lugo",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Majadahonda",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Mataró(Barcelona)",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Málaga",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Ourense",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Santiago de Compostela(A Coru",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Vigo(Pontevedra)",
+            "country": "Spain"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Lund",
+            "country": "Sweden"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Sundsvall",
+            "country": "Sweden"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Umeå",
+            "country": "Sweden"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Uppsala",
+            "country": "Sweden"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Västerås",
+            "country": "Sweden"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Taipei",
+            "country": "Taiwan"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Birmingham",
+            "country": "United Kingdom"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Edinburgh",
+            "country": "United Kingdom"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Leeds",
+            "country": "United Kingdom"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Manchester",
+            "country": "United Kingdom"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Wolverhampton",
+            "country": "United Kingdom"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Caracas",
+            "country": "Venezuela"
+          },
+          {
+            "facility": "Research Site",
+            "city": "Valencia",
+            "country": "Venezuela"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03015688",
+        "briefTitle": "the New Biomarker of the Knee Osteoarthritis Knee Osteoarthritis Occurrence and Progression"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2012-06"
+        },
+        "completionDateStruct": {
+          "date": "2015-06"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Jianwei He",
+          "investigatorTitle": "Principal investigator",
+          "investigatorAffiliation": "Shihezi University"
+        },
+        "leadSponsor": {
+          "name": "Shihezi University",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "It was previously proved an association of TGF-β1 and PDGF-BB with the pathogenesis of osteoarthritis (OA) by experiments of OA animal models. In this study, we aimed to determine whether serum concentrations of TGF-β1, PDGF-BB and CTX-1 were related to the knee OA. knee OA cases were collected from the first affiliated hospital of Shihezi university and healthy controls were recruited from the community. The severity of knee OA was defined as kellgren-lawrence (K-L) classification criteria.Serum levels of chemical biomarkers were compared between knee OA cases and controls or among K-L grade 2 to grade 4 groups. The serum concentrations of the TGF-β1, PDGF-BB and CTX-1 were determined by ELISA ."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Knee Osteoarthritis"
+        ],
+        "keywords": [
+          "Biomarkers"
+        ]
+      },
+      "designModule": {}
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05766657",
+        "briefTitle": "Evaluation of an Anti-inflammatory Diet in Autoimmune and Metabolic Diseases",
+        "officialTitle": "Evaluation of the Effect of an Anti-inflammatory Diet Built on the Basis of the Gut Microbiota in Children with Type 1 Diabetes and Obesity"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {
+          "date": "2022-12-23"
+        },
+        "completionDateStruct": {
+          "date": "2023-11-24"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Marika Falcone",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "IRCCS San Raffaele"
+        },
+        "leadSponsor": {
+          "name": "IRCCS San Raffaele",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "The overall objective of the study is to provide personalized nutritional advice based on the gut microbiota profile of children with type 1 diabetes (T1D) or obesity.\n\nSpecifically, the primary objective of NUTRI-DIET is to validate a dietary model aimed at restoring bacterial species and/or anti-inflammatory metabolites in order to prevent extra-intestinal diseases characterized by dysbiosis, such as T1D and obesity.\n\nThe primary endpoints of the study will be to monitor the glycemic control indices, i.e., blood glucose (mean of glycemic values, percentage of time-in-range value (TIR), which will be displayed by glycemic sensor) and glycated hemoglobin for diabetic children and Body mass index (BMI) z-score according to World Health Organization (WHO) recommendations (WHO BMI-for-age boys; WHO BMI-for-age girls) for obese children.\n\nThe secondary objective of the study is to characterize the microbiota profile of the study patients and to test the algorithm under development built from the integration of diet and and gut microbiota composition data that were obtained during the previous observational study NUTRI-T1D."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type1 Diabetes",
+          "Obesity"
+        ],
+        "keywords": [
+          "Gut microbiome",
+          "Inflammation",
+          "Type 1 Diabetes",
+          "Obesity",
+          "Immunology",
+          "Gut barrier",
+          "Intestinal barrier",
+          "Extra-intestinal diseases"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "NA"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Pediatric Unit",
+            "city": "Milan",
+            "state": "Milano",
+            "country": "Italy"
+          },
+          {
+            "facility": "Autoimmune Pathogenesis Unit",
+            "city": "Milan",
+            "state": "Milan",
+            "country": "Italy"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05558995",
+        "briefTitle": "Ketogenic Diet Therapy Major Depressive Disorder",
+        "officialTitle": "Effects and Mechanistic Aspects of Ketogenic Diet in Individuals With Major Depressive Disorder: A Pilot Study"
+      },
+      "statusModule": {
+        "overallStatus": "UNKNOWN",
+        "startDateStruct": {
+          "date": "2024-01-02"
+        },
+        "completionDateStruct": {
+          "date": "2024-12-30"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "investigatorFullName": "Dr. Elisa M Brietzke",
+          "investigatorTitle": "MD,PhD,Professor",
+          "investigatorAffiliation": "Queen's University"
+        },
+        "leadSponsor": {
+          "name": "Queen's University",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "This research program will examine the feasibility as assessed through rates of adherence, tolerability, and safety of the ketogenic diet for individuals with Major Depressive Disorder (MDD) who are not achieving symptomatic remission with first line antidepressants such as the Serotonin Selective Inhibitors (SSRIs). Driven by robust data on the benefits of ketogenic diet in epilepsy and by preliminary data in animal models demonstrating its effects on depressive behaviors, there is a hypothesis that ketogenic diet could be useful to treat residual depressive symptoms. As deficits in reward and pleasure (anhedonia) are the most common residual symptoms in MDD individuals with partial response to SSRIs, the ketogenic diet could be a potential adjuvant in the treatment for depression. In addition, a preliminary assessment of neuroplasticity-related biomarkers in the plasma to determine possible biological substrates for the mechanism of action of ketogenic diet in the brain will be conducted."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Major Depressive Disorder"
+        ],
+        "keywords": [
+          "Ketogenic Diet",
+          "Major depressive disorder"
+        ]
+      },
+      "designModule": {
+        "phases": [
+          "NA"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Elisa Brietzke, MD,PhD",
+            "affiliation": "Queen's University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Queen's University - Kingston General Hospital",
+            "city": "Kingston",
+            "state": "Ontario",
+            "country": "Canada"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "pmid": "35047893",
+    "title": "Current Perspective: 3D Spheroid Models Utilizing Human-Based Cells for Investigating Metabolism-Dependent Drug-Induced Liver Injury.",
+    "abstract": "Drug-induced liver injury (DILI) remains a leading cause for the withdrawal of approved drugs. This has significant financial implications for pharmaceutical companies, places increasing strain on global health services, and causes harm to patients. For these reasons, it is essential that ",
+    "authors": [
+      {
+        "last_name": "Cox",
+        "first_name": "Christopher R",
+        "name": "Christopher R Cox",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      },
+      {
+        "last_name": "Lynch",
+        "first_name": "Stephen",
+        "name": "Stephen Lynch",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      },
+      {
+        "last_name": "Goldring",
+        "first_name": "Christopher",
+        "name": "Christopher Goldring",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      },
+      {
+        "last_name": "Sharma",
+        "first_name": "Parveen",
+        "name": "Parveen Sharma",
+        "affiliation": "Department of Pharmacology and Experimental Therapeutics, MRC Centre for Drug Safety Science, Institute of Systems, Molecular & Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+      }
+    ],
+    "journal": "Frontiers in medical technology",
+    "pub_date": "2020",
+    "keywords": []
+  },
+  {
+    "pmid": "38026892",
+    "title": "3D bioprinting of dECM-incorporated hepatocyte spheroid for simultaneous promotion of cell-cell and -ECM interactions.",
+    "abstract": "The cell spheroid technology, which greatly enhances cell-cell interactions, has gained significant attention in the development of ",
+    "authors": [
+      {
+        "last_name": "Kim",
+        "first_name": "Min Kyeong",
+        "name": "Min Kyeong Kim",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      },
+      {
+        "last_name": "Jeong",
+        "first_name": "Wonwoo",
+        "name": "Wonwoo Jeong",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      },
+      {
+        "last_name": "Jeon",
+        "first_name": "Seunggyu",
+        "name": "Seunggyu Jeon",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      },
+      {
+        "last_name": "Kang",
+        "first_name": "Hyun-Wook",
+        "name": "Hyun-Wook Kang",
+        "affiliation": "Department of Biomedical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea."
+      }
+    ],
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "pub_date": "2023",
+    "keywords": []
+  },
+  {
+    "pmid": "34638555",
+    "title": "Three-Dimensional Liver Culture Systems to Maintain Primary Hepatic Properties for Toxicological Analysis In Vitro.",
+    "abstract": "Drug-induced liver injury (DILI) is the major reason for failures in drug development and withdrawal of approved drugs from the market. Two-dimensional cultures of hepatocytes often fail to reliably predict DILI: hepatoma cell lines such as HepG2 do not reflect important primary-like hepatic properties and primary human hepatocytes (pHHs) dedifferentiate quickly in vitro and are, therefore, not suitable for long-term toxicity studies. More predictive liver in vitro models are urgently required in drug development and compound safety evaluation. This review discusses available human hepatic cell types for in vitro toxicology analysis and their usage in established and emerging three-dimensional (3D) culture systems. Generally, 3D cultures maintain or improve primary hepatic functions (including expression of drug-metabolizing enzymes) of different liver cells for several weeks of culture, thus allowing long-term and repeated-dose toxicity studies. Spheroid cultures of pHHs have been comprehensively tested, but also other cell types such as HepaRG benefit from 3D culture systems. Emerging 3D culture techniques include usage of induced pluripotent stem-cell-derived hepatocytes and primary-like upcyte cells, as well as advanced culture techniques such as microfluidic liver-on-a-chip models. In-depth characterization of existing and emerging 3D hepatocyte technologies is indispensable for successful implementation of such systems in toxicological analysis.",
+    "authors": [
+      {
+        "last_name": "Kammerer",
+        "first_name": "Sarah",
+        "name": "Sarah Kammerer",
+        "affiliation": "Institute of Biotechnology, Brandenburg University of Technology Cottbus-Senftenberg, Universitätsplatz 1, 01968 Senftenberg, Germany.",
+        "orcid": "0000-0002-9284-2242"
+      }
+    ],
+    "journal": "International journal of molecular sciences",
+    "pub_date": "2021",
+    "keywords": [
+      "Bioreactors",
+      "Cell Culture Techniques",
+      "Hepatocytes",
+      "Humans",
+      "Primary Cell Culture",
+      "Spheroids, Cellular",
+      "Toxicity Tests",
+      "Toxicology"
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "pmid": "33341248",
+    "title": "Organ-on-a-Chip: A New Paradigm for Drug Development.",
+    "abstract": "The pharmaceutical industry has been desperately searching for efficient drug discovery methods. Organ-on-a-Chip, a cutting-edge technology that can emulate the physiological environment and functionality of human organs on a chip for disease modeling and drug testing, shows great potential for revolutionizing the drug development pipeline. However, successful translation of this novel engineering platform into routine pharmacological and medical scenarios remains to be realized. In this review, we discuss how the Organ-on-a-Chip technology can have critical roles in different preclinical stages of drug development and highlight the current challenges in translation and commercialization of this technology for the pharmacological and medical end-users. Moreover, this review sheds light on the future developmental trends and need for a next-generation Organ-on-a-Chip platform to bridge the gap between animal studies and clinical trials for the pharmaceutical industry.",
+    "authors": [
+      {
+        "last_name": "Ma",
+        "first_name": "Chao",
+        "name": "Chao Ma",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, New York University, Brooklyn, NY 11201, USA; Department of Biomedical Engineering, New York University, Brooklyn, NY 11201, USA."
+      },
+      {
+        "last_name": "Peng",
+        "first_name": "Yansong",
+        "name": "Yansong Peng",
+        "affiliation": "Department of Biomedical Engineering, New York University, Brooklyn, NY 11201, USA."
+      },
+      {
+        "last_name": "Li",
+        "first_name": "Hongtong",
+        "name": "Hongtong Li",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, New York University, Brooklyn, NY 11201, USA."
+      },
+      {
+        "last_name": "Chen",
+        "first_name": "Weiqiang",
+        "name": "Weiqiang Chen",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, New York University, Brooklyn, NY 11201, USA; Department of Biomedical Engineering, New York University, Brooklyn, NY 11201, USA; Perlmutter Cancer Center, NYU Langone Health, New York, NY 10016, USA. Electronic address: wchen@nyu.edu.",
+        "email": "wchen@nyu.edu"
+      }
+    ],
+    "journal": "Trends in pharmacological sciences",
+    "pub_date": "2021",
+    "keywords": [
+      "Animals",
+      "Drug Development",
+      "Drug Discovery",
+      "Drug Industry",
+      "Humans",
+      "Lab-On-A-Chip Devices"
+    ]
+  },
+  {
+    "pmid": "35978444",
+    "title": "Organ-On-A-Chip Models of the Blood-Brain Barrier: Recent Advances and Future Prospects.",
+    "abstract": "The human brain and central nervous system (CNS) present unique challenges in drug development for neurological diseases. One major obstacle is the blood-brain barrier (BBB), which hampers the effective delivery of therapeutic molecules into the brain while protecting it from blood-born neurotoxic substances and maintaining CNS homeostasis. For BBB research, traditional in vitro models rely upon Petri dishes or Transwell systems. However, these static models lack essential microenvironmental factors such as shear stress and proper cell-cell interactions. To this end, organ-on-a-chip (OoC) technology has emerged as a new in vitro modeling approach to better recapitulate the highly dynamic in vivo human brain microenvironment so-called the neural vascular unit (NVU). Such BBB-on-a-chip models have made substantial progress over the last decade, and concurrently there has been increasing interest in modeling various neurological diseases such as Alzheimer's disease and Parkinson's disease using OoC technology. In addition, with recent advances in other scientific technologies, several new opportunities to improve the BBB-on-a-chip platform via multidisciplinary approaches are available. In this review, an overview of the NVU and OoC technology is provided, recent progress and applications of BBB-on-a-chip for personalized medicine and drug discovery are discussed, and current challenges and future directions are delineated.",
+    "authors": [
+      {
+        "last_name": "Kawakita",
+        "first_name": "Satoru",
+        "name": "Satoru Kawakita",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Mandal",
+        "first_name": "Kalpana",
+        "name": "Kalpana Mandal",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Mou",
+        "first_name": "Lei",
+        "name": "Lei Mou",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Mecwan",
+        "first_name": "Marvin Magan",
+        "name": "Marvin Magan Mecwan",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Zhu",
+        "first_name": "Yangzhi",
+        "name": "Yangzhi Zhu",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Li",
+        "first_name": "Shaopei",
+        "name": "Shaopei Li",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Sharma",
+        "first_name": "Saurabh",
+        "name": "Saurabh Sharma",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Hernandez",
+        "first_name": "Ana Lopez",
+        "name": "Ana Lopez Hernandez",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Nguyen",
+        "first_name": "Huu Tuan",
+        "name": "Huu Tuan Nguyen",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Maity",
+        "first_name": "Surjendu",
+        "name": "Surjendu Maity",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "de Barros",
+        "first_name": "Natan Roberto",
+        "name": "Natan Roberto de Barros",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Nakayama",
+        "first_name": "Aya",
+        "name": "Aya Nakayama",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Bandaru",
+        "first_name": "Praveen",
+        "name": "Praveen Bandaru",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Ahadian",
+        "first_name": "Samad",
+        "name": "Samad Ahadian",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Kim",
+        "first_name": "Han-Jun",
+        "name": "Han-Jun Kim",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Herculano",
+        "first_name": "Rondinelli Donizetti",
+        "name": "Rondinelli Donizetti Herculano",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Holler",
+        "first_name": "Eggehard",
+        "name": "Eggehard Holler",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Jucaud",
+        "first_name": "Vadim",
+        "name": "Vadim Jucaud",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Dokmeci",
+        "first_name": "Mehmet Remzi",
+        "name": "Mehmet Remzi Dokmeci",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA."
+      },
+      {
+        "last_name": "Khademhosseini",
+        "first_name": "Ali",
+        "name": "Ali Khademhosseini",
+        "affiliation": "Terasaki Institute for Biomedical Innovation, Los Angeles, CA, 90064, USA.",
+        "orcid": "0000-0002-2692-1524"
+      }
+    ],
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "pub_date": "2022",
+    "keywords": [
+      "Alzheimer Disease",
+      "Biological Transport",
+      "Blood-Brain Barrier",
+      "Brain",
+      "Humans",
+      "Lab-On-A-Chip Devices"
+    ]
+  },
+  {
+    "pmid": "34363466",
+    "title": "Three-dimensional microengineered vascularised endometrium-on-a-chip.",
+    "abstract": "Can we reconstitute physiologically relevant 3-dimensional (3D) microengineered endometrium in-vitro model? Our representative microengineered vascularised endometrium on-a-chip closely recapitulates the endometrial microenvironment that consists of three distinct layers including epithelial cells, stromal fibroblasts and endothelial cells in a 3D extracellular matrix in a spatiotemporal manner. Organ-on-a-chip, a multi-channel 3D microfluidic cell culture system, is widely used to investigate physiologically relevant responses of organ systems. The device consists of five microchannels that are arrayed in parallel and partitioned by array of micropost. Two central channels are for 3D culture and morphogenesis of stromal fibroblast and endothelial cells. In addition, the outermost channel is for the culture of additional endometrial stromal fibroblasts that secrete biochemical cues to induce directional pro-angiogenic responses of endothelial cells. To seed endometrial epithelial cells, on Day 8, Ishikawa cells were introduced to one of the two medium channels to adhere on the gel surface. After that, the microengineered endometrium was cultured for an additional 5-6 days (total ∼ 14 days) for the purpose of each experiment. Microfluidic 3D cultures were maintained in endothelial growth Medium 2 with or without oestradiol and progesterone. Some cultures additionally received exogenous pro-angiogenic factors. For the three distinct layers of microengineered endometrium-on-a-chip, the epithelium, stroma and blood vessel characteristics and drug response of each distinct layer in the microfluidic model were assessed morphologically and biochemically. The quantitative measurement of endometrial drug delivery was evaluated by the permeability coefficients. We established microengineered vascularised endometrium-on-chip, which consists of three distinct layers: epithelium, stroma and blood vessels. Our endometrium model faithfully recapitulates in-vivo endometrial vasculo-angiogenesis and hormonal responses displaying key features of the proliferative and secretory phases of the menstrual cycle. Furthermore, the effect of the emergency contraception drug levonorgestrel was evaluated in our model demonstrating increased endometrial permeability and blood vessel regression in a dose-dependent manner. We finally provided a proof of concept of the multi-layered endometrium model for embryo implantation, which aids a better understanding of the molecular and cellular mechanisms underlying this process. N/A. This report is largely an in-vitro study and it would be beneficial to validate our findings using human primary endometrial cells. Our 3D microengineered vascularised endometrium-on-a-chip provides a new in-vitro approach to drug screening and drug discovery by mimicking the complicated behaviours of human endometrium. Thus, we suggest our model as a tool for addressing critical challenges and unsolved problems in female diseases, such as endometriosis, uterine cancer and female infertility, in a personalised manner. This work is supported by funding from the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) to Y.J.K. (No. 2018R1C1B6003), to J.A. (No. 2020R1I1A1A01074136) and to H.S.K. (No. 2020R1C1C100787212). The authors report no conflicts of interest.",
+    "authors": [
+      {
+        "last_name": "Ahn",
+        "first_name": "Jungho",
+        "name": "Jungho Ahn",
+        "affiliation": "Department of Biochemistry, Research Institute for Basic Medical Science, School of Medicine, CHA University, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Yoon",
+        "first_name": "Min-Ji",
+        "name": "Min-Ji Yoon",
+        "affiliation": "Department of Biomedical Science, School of Life Science, CHA University, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Hong",
+        "first_name": "Seon-Hwa",
+        "name": "Seon-Hwa Hong",
+        "affiliation": "CHA Fertility Center Bundang, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Cha",
+        "first_name": "Hwijae",
+        "name": "Hwijae Cha",
+        "affiliation": "Department of Biomedical Science, School of Life Science, CHA University, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Lee",
+        "first_name": "Danbi",
+        "name": "Danbi Lee",
+        "affiliation": "Department of Biomedical Science, School of Life Science, CHA University, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Koo",
+        "first_name": "Hwa Seon",
+        "name": "Hwa Seon Koo",
+        "affiliation": "CHA Fertility Center Bundang, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Ko",
+        "first_name": "Ji-Eun",
+        "name": "Ji-Eun Ko",
+        "affiliation": "CHA Fertility Center Bundang, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Lee",
+        "first_name": "Jungseub",
+        "name": "Jungseub Lee",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul-si, Republic of Korea."
+      },
+      {
+        "last_name": "Oh",
+        "first_name": "Soojung",
+        "name": "Soojung Oh",
+        "affiliation": "AMOREPACIFIC Research and Development Center, Yongin-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "last_name": "Jeon",
+        "first_name": "Noo Li",
+        "name": "Noo Li Jeon",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul-si, Republic of Korea."
+      },
+      {
+        "last_name": "Kang",
+        "first_name": "Youn-Jung",
+        "name": "Youn-Jung Kang",
+        "affiliation": "Department of Biochemistry, Research Institute for Basic Medical Science, School of Medicine, CHA University, Seongnam-si, Gyeonggi-do, Republic of Korea.",
+        "orcid": "0000-0002-0771-9515"
+      }
+    ],
+    "journal": "Human reproduction (Oxford, England)",
+    "pub_date": "2021",
+    "keywords": [
+      "Embryo Implantation",
+      "Endometrium",
+      "Endothelial Cells",
+      "Female",
+      "Humans",
+      "Lab-On-A-Chip Devices",
+      "Menstrual Cycle"
+    ]
+  }
+]

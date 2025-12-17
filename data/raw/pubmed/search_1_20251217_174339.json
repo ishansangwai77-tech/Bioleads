@@ -1,0 +1,328 @@
+[
+  {
+    "pmid": "30643021",
+    "title": "Long-term expanding human airway organoids for disease modeling.",
+    "abstract": "Organoids are self-organizing 3D structures grown from stem cells that recapitulate essential aspects of organ structure and function. Here, we describe a method to establish long-term-expanding human airway organoids from broncho-alveolar resections or lavage material. The pseudostratified airway organoids consist of basal cells, functional multi-ciliated cells, mucus-producing secretory cells, and CC10-secreting club cells. Airway organoids derived from cystic fibrosis (CF) patients allow assessment of CFTR function in an organoid swelling assay. Organoids established from lung cancer resections and metastasis biopsies retain tumor histopathology as well as cancer gene mutations and are amenable to drug screening. Respiratory syncytial virus (RSV) infection recapitulates central disease features, dramatically increases organoid cell motility via the non-structural viral NS2 protein, and preferentially recruits neutrophils upon co-culturing. We conclude that human airway organoids represent versatile models for the ",
+    "authors": [
+      {
+        "last_name": "Sachs",
+        "first_name": "Norman",
+        "name": "Norman Sachs",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Papaspyropoulos",
+        "first_name": "Angelos",
+        "name": "Angelos Papaspyropoulos",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Zomer-van Ommen",
+        "first_name": "Domenique D",
+        "name": "Domenique D Zomer-van Ommen",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Heo",
+        "first_name": "Inha",
+        "name": "Inha Heo",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Böttinger",
+        "first_name": "Lena",
+        "name": "Lena Böttinger",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Klay",
+        "first_name": "Dymph",
+        "name": "Dymph Klay",
+        "affiliation": "St. Antonius Hospital Nieuwegein, Nieuwegein, The Netherlands."
+      },
+      {
+        "last_name": "Weeber",
+        "first_name": "Fleur",
+        "name": "Fleur Weeber",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Huelsz-Prince",
+        "first_name": "Guizela",
+        "name": "Guizela Huelsz-Prince",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Iakobachvili",
+        "first_name": "Nino",
+        "name": "Nino Iakobachvili",
+        "affiliation": "Maastricht University, Maastricht, The Netherlands."
+      },
+      {
+        "last_name": "Amatngalim",
+        "first_name": "Gimano D",
+        "name": "Gimano D Amatngalim",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "de Ligt",
+        "first_name": "Joep",
+        "name": "Joep de Ligt",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands.",
+        "orcid": "0000-0002-0348-419X"
+      },
+      {
+        "last_name": "van Hoeck",
+        "first_name": "Arne",
+        "name": "Arne van Hoeck",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands.",
+        "orcid": "0000-0002-6570-1452"
+      },
+      {
+        "last_name": "Proost",
+        "first_name": "Natalie",
+        "name": "Natalie Proost",
+        "affiliation": "Mouse Clinic for Cancer and Aging (MCCA) Preclinical Intervention Unit, The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Viveen",
+        "first_name": "Marco C",
+        "name": "Marco C Viveen",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Lyubimova",
+        "first_name": "Anna",
+        "name": "Anna Lyubimova",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Teeven",
+        "first_name": "Luc",
+        "name": "Luc Teeven",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Derakhshan",
+        "first_name": "Sepideh",
+        "name": "Sepideh Derakhshan",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Korving",
+        "first_name": "Jeroen",
+        "name": "Jeroen Korving",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Begthel",
+        "first_name": "Harry",
+        "name": "Harry Begthel",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Dekkers",
+        "first_name": "Johanna F",
+        "name": "Johanna F Dekkers",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Kumawat",
+        "first_name": "Kuldeep",
+        "name": "Kuldeep Kumawat",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Ramos",
+        "first_name": "Emilio",
+        "name": "Emilio Ramos",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "van Oosterhout",
+        "first_name": "Matthijs Fm",
+        "name": "Matthijs Fm van Oosterhout",
+        "affiliation": "St. Antonius Hospital Nieuwegein, Nieuwegein, The Netherlands."
+      },
+      {
+        "last_name": "Offerhaus",
+        "first_name": "G Johan",
+        "name": "G Johan Offerhaus",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Wiener",
+        "first_name": "Dominique J",
+        "name": "Dominique J Wiener",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Olimpio",
+        "first_name": "Eduardo P",
+        "name": "Eduardo P Olimpio",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Dijkstra",
+        "first_name": "Krijn K",
+        "name": "Krijn K Dijkstra",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Smit",
+        "first_name": "Egbert F",
+        "name": "Egbert F Smit",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "van der Linden",
+        "first_name": "Maarten",
+        "name": "Maarten van der Linden",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Jaksani",
+        "first_name": "Sridevi",
+        "name": "Sridevi Jaksani",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "van de Ven",
+        "first_name": "Marieke",
+        "name": "Marieke van de Ven",
+        "affiliation": "Mouse Clinic for Cancer and Aging (MCCA) Preclinical Intervention Unit, The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Jonkers",
+        "first_name": "Jos",
+        "name": "Jos Jonkers",
+        "affiliation": "Mouse Clinic for Cancer and Aging (MCCA) Preclinical Intervention Unit, The Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "orcid": "0000-0002-9264-9792"
+      },
+      {
+        "last_name": "Rios",
+        "first_name": "Anne C",
+        "name": "Anne C Rios",
+        "affiliation": "Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Voest",
+        "first_name": "Emile E",
+        "name": "Emile E Voest",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "van Moorsel",
+        "first_name": "Coline Hm",
+        "name": "Coline Hm van Moorsel",
+        "affiliation": "St. Antonius Hospital Nieuwegein, Nieuwegein, The Netherlands."
+      },
+      {
+        "last_name": "van der Ent",
+        "first_name": "Cornelis K",
+        "name": "Cornelis K van der Ent",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Cuppen",
+        "first_name": "Edwin",
+        "name": "Edwin Cuppen",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands.",
+        "orcid": "0000-0002-0400-9542"
+      },
+      {
+        "last_name": "van Oudenaarden",
+        "first_name": "Alexander",
+        "name": "Alexander van Oudenaarden",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Coenjaerts",
+        "first_name": "Frank E",
+        "name": "Frank E Coenjaerts",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Meyaard",
+        "first_name": "Linde",
+        "name": "Linde Meyaard",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Bont",
+        "first_name": "Louis J",
+        "name": "Louis J Bont",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Peters",
+        "first_name": "Peter J",
+        "name": "Peter J Peters",
+        "affiliation": "Maastricht University, Maastricht, The Netherlands."
+      },
+      {
+        "last_name": "Tans",
+        "first_name": "Sander J",
+        "name": "Sander J Tans",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "van Zon",
+        "first_name": "Jeroen S",
+        "name": "Jeroen S van Zon",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Boj",
+        "first_name": "Sylvia F",
+        "name": "Sylvia F Boj",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Vries",
+        "first_name": "Robert G",
+        "name": "Robert G Vries",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Beekman",
+        "first_name": "Jeffrey M",
+        "name": "Jeffrey M Beekman",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Clevers",
+        "first_name": "Hans",
+        "name": "Hans Clevers",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands h.clevers@hubrecht.eu.",
+        "email": "h.clevers@hubrecht.eu",
+        "orcid": "0000-0002-3077-5582"
+      }
+    ],
+    "journal": "The EMBO journal",
+    "pub_date": "2019",
+    "keywords": [
+      "Animals",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Cells, Cultured",
+      "Cystic Fibrosis",
+      "Cystic Fibrosis Transmembrane Conductance Regulator",
+      "Disease Models, Animal",
+      "Drug Screening Assays, Antitumor",
+      "Epithelial Cells",
+      "Female",
+      "Humans",
+      "Lung Neoplasms",
+      "Male",
+      "Mice",
+      "Mice, Inbred NOD",
+      "Mice, SCID",
+      "Organ Culture Techniques",
+      "Organoids",
+      "Respiratory Syncytial Virus Infections",
+      "Respiratory Syncytial Viruses",
+      "Respiratory System",
+      "Xenograft Model Antitumor Assays"
+    ]
+  }
+]

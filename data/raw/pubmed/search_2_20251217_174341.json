@@ -1,0 +1,44 @@
+[
+  {
+    "pmid": "33341248",
+    "title": "Organ-on-a-Chip: A New Paradigm for Drug Development.",
+    "abstract": "The pharmaceutical industry has been desperately searching for efficient drug discovery methods. Organ-on-a-Chip, a cutting-edge technology that can emulate the physiological environment and functionality of human organs on a chip for disease modeling and drug testing, shows great potential for revolutionizing the drug development pipeline. However, successful translation of this novel engineering platform into routine pharmacological and medical scenarios remains to be realized. In this review, we discuss how the Organ-on-a-Chip technology can have critical roles in different preclinical stages of drug development and highlight the current challenges in translation and commercialization of this technology for the pharmacological and medical end-users. Moreover, this review sheds light on the future developmental trends and need for a next-generation Organ-on-a-Chip platform to bridge the gap between animal studies and clinical trials for the pharmaceutical industry.",
+    "authors": [
+      {
+        "last_name": "Ma",
+        "first_name": "Chao",
+        "name": "Chao Ma",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, New York University, Brooklyn, NY 11201, USA; Department of Biomedical Engineering, New York University, Brooklyn, NY 11201, USA."
+      },
+      {
+        "last_name": "Peng",
+        "first_name": "Yansong",
+        "name": "Yansong Peng",
+        "affiliation": "Department of Biomedical Engineering, New York University, Brooklyn, NY 11201, USA."
+      },
+      {
+        "last_name": "Li",
+        "first_name": "Hongtong",
+        "name": "Hongtong Li",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, New York University, Brooklyn, NY 11201, USA."
+      },
+      {
+        "last_name": "Chen",
+        "first_name": "Weiqiang",
+        "name": "Weiqiang Chen",
+        "affiliation": "Department of Mechanical and Aerospace Engineering, New York University, Brooklyn, NY 11201, USA; Department of Biomedical Engineering, New York University, Brooklyn, NY 11201, USA; Perlmutter Cancer Center, NYU Langone Health, New York, NY 10016, USA. Electronic address: wchen@nyu.edu.",
+        "email": "wchen@nyu.edu"
+      }
+    ],
+    "journal": "Trends in pharmacological sciences",
+    "pub_date": "2021",
+    "keywords": [
+      "Animals",
+      "Drug Development",
+      "Drug Discovery",
+      "Drug Industry",
+      "Humans",
+      "Lab-On-A-Chip Devices"
+    ]
+  }
+]

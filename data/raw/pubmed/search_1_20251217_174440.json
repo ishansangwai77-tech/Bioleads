@@ -1,0 +1,602 @@
+[
+  {
+    "pmid": "30643021",
+    "title": "Long-term expanding human airway organoids for disease modeling.",
+    "abstract": "Organoids are self-organizing 3D structures grown from stem cells that recapitulate essential aspects of organ structure and function. Here, we describe a method to establish long-term-expanding human airway organoids from broncho-alveolar resections or lavage material. The pseudostratified airway organoids consist of basal cells, functional multi-ciliated cells, mucus-producing secretory cells, and CC10-secreting club cells. Airway organoids derived from cystic fibrosis (CF) patients allow assessment of CFTR function in an organoid swelling assay. Organoids established from lung cancer resections and metastasis biopsies retain tumor histopathology as well as cancer gene mutations and are amenable to drug screening. Respiratory syncytial virus (RSV) infection recapitulates central disease features, dramatically increases organoid cell motility via the non-structural viral NS2 protein, and preferentially recruits neutrophils upon co-culturing. We conclude that human airway organoids represent versatile models for the ",
+    "authors": [
+      {
+        "last_name": "Sachs",
+        "first_name": "Norman",
+        "name": "Norman Sachs",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Papaspyropoulos",
+        "first_name": "Angelos",
+        "name": "Angelos Papaspyropoulos",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Zomer-van Ommen",
+        "first_name": "Domenique D",
+        "name": "Domenique D Zomer-van Ommen",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Heo",
+        "first_name": "Inha",
+        "name": "Inha Heo",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Böttinger",
+        "first_name": "Lena",
+        "name": "Lena Böttinger",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Klay",
+        "first_name": "Dymph",
+        "name": "Dymph Klay",
+        "affiliation": "St. Antonius Hospital Nieuwegein, Nieuwegein, The Netherlands."
+      },
+      {
+        "last_name": "Weeber",
+        "first_name": "Fleur",
+        "name": "Fleur Weeber",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Huelsz-Prince",
+        "first_name": "Guizela",
+        "name": "Guizela Huelsz-Prince",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Iakobachvili",
+        "first_name": "Nino",
+        "name": "Nino Iakobachvili",
+        "affiliation": "Maastricht University, Maastricht, The Netherlands."
+      },
+      {
+        "last_name": "Amatngalim",
+        "first_name": "Gimano D",
+        "name": "Gimano D Amatngalim",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "de Ligt",
+        "first_name": "Joep",
+        "name": "Joep de Ligt",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands.",
+        "orcid": "0000-0002-0348-419X"
+      },
+      {
+        "last_name": "van Hoeck",
+        "first_name": "Arne",
+        "name": "Arne van Hoeck",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands.",
+        "orcid": "0000-0002-6570-1452"
+      },
+      {
+        "last_name": "Proost",
+        "first_name": "Natalie",
+        "name": "Natalie Proost",
+        "affiliation": "Mouse Clinic for Cancer and Aging (MCCA) Preclinical Intervention Unit, The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Viveen",
+        "first_name": "Marco C",
+        "name": "Marco C Viveen",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Lyubimova",
+        "first_name": "Anna",
+        "name": "Anna Lyubimova",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Teeven",
+        "first_name": "Luc",
+        "name": "Luc Teeven",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Derakhshan",
+        "first_name": "Sepideh",
+        "name": "Sepideh Derakhshan",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Korving",
+        "first_name": "Jeroen",
+        "name": "Jeroen Korving",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Begthel",
+        "first_name": "Harry",
+        "name": "Harry Begthel",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Dekkers",
+        "first_name": "Johanna F",
+        "name": "Johanna F Dekkers",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Kumawat",
+        "first_name": "Kuldeep",
+        "name": "Kuldeep Kumawat",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Ramos",
+        "first_name": "Emilio",
+        "name": "Emilio Ramos",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "van Oosterhout",
+        "first_name": "Matthijs Fm",
+        "name": "Matthijs Fm van Oosterhout",
+        "affiliation": "St. Antonius Hospital Nieuwegein, Nieuwegein, The Netherlands."
+      },
+      {
+        "last_name": "Offerhaus",
+        "first_name": "G Johan",
+        "name": "G Johan Offerhaus",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Wiener",
+        "first_name": "Dominique J",
+        "name": "Dominique J Wiener",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Olimpio",
+        "first_name": "Eduardo P",
+        "name": "Eduardo P Olimpio",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Dijkstra",
+        "first_name": "Krijn K",
+        "name": "Krijn K Dijkstra",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Smit",
+        "first_name": "Egbert F",
+        "name": "Egbert F Smit",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "van der Linden",
+        "first_name": "Maarten",
+        "name": "Maarten van der Linden",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Jaksani",
+        "first_name": "Sridevi",
+        "name": "Sridevi Jaksani",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "van de Ven",
+        "first_name": "Marieke",
+        "name": "Marieke van de Ven",
+        "affiliation": "Mouse Clinic for Cancer and Aging (MCCA) Preclinical Intervention Unit, The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Jonkers",
+        "first_name": "Jos",
+        "name": "Jos Jonkers",
+        "affiliation": "Mouse Clinic for Cancer and Aging (MCCA) Preclinical Intervention Unit, The Netherlands Cancer Institute, Amsterdam, The Netherlands.",
+        "orcid": "0000-0002-9264-9792"
+      },
+      {
+        "last_name": "Rios",
+        "first_name": "Anne C",
+        "name": "Anne C Rios",
+        "affiliation": "Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Voest",
+        "first_name": "Emile E",
+        "name": "Emile E Voest",
+        "affiliation": "The Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "van Moorsel",
+        "first_name": "Coline Hm",
+        "name": "Coline Hm van Moorsel",
+        "affiliation": "St. Antonius Hospital Nieuwegein, Nieuwegein, The Netherlands."
+      },
+      {
+        "last_name": "van der Ent",
+        "first_name": "Cornelis K",
+        "name": "Cornelis K van der Ent",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Cuppen",
+        "first_name": "Edwin",
+        "name": "Edwin Cuppen",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands.",
+        "orcid": "0000-0002-0400-9542"
+      },
+      {
+        "last_name": "van Oudenaarden",
+        "first_name": "Alexander",
+        "name": "Alexander van Oudenaarden",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Coenjaerts",
+        "first_name": "Frank E",
+        "name": "Frank E Coenjaerts",
+        "affiliation": "UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Meyaard",
+        "first_name": "Linde",
+        "name": "Linde Meyaard",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Bont",
+        "first_name": "Louis J",
+        "name": "Louis J Bont",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Peters",
+        "first_name": "Peter J",
+        "name": "Peter J Peters",
+        "affiliation": "Maastricht University, Maastricht, The Netherlands."
+      },
+      {
+        "last_name": "Tans",
+        "first_name": "Sander J",
+        "name": "Sander J Tans",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "van Zon",
+        "first_name": "Jeroen S",
+        "name": "Jeroen S van Zon",
+        "affiliation": "FOM Institute AMOLF, Amsterdam, The Netherlands."
+      },
+      {
+        "last_name": "Boj",
+        "first_name": "Sylvia F",
+        "name": "Sylvia F Boj",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Vries",
+        "first_name": "Robert G",
+        "name": "Robert G Vries",
+        "affiliation": "Hubrecht Organoid Technology, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Beekman",
+        "first_name": "Jeffrey M",
+        "name": "Jeffrey M Beekman",
+        "affiliation": "Wilhelmina Children's Hospital and UMC Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "last_name": "Clevers",
+        "first_name": "Hans",
+        "name": "Hans Clevers",
+        "affiliation": "Oncode Institute, Hubrecht Institute-KNAW and UMC Utrecht, Utrecht, The Netherlands h.clevers@hubrecht.eu.",
+        "email": "h.clevers@hubrecht.eu",
+        "orcid": "0000-0002-3077-5582"
+      }
+    ],
+    "journal": "The EMBO journal",
+    "pub_date": "2019",
+    "keywords": [
+      "Animals",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Cells, Cultured",
+      "Cystic Fibrosis",
+      "Cystic Fibrosis Transmembrane Conductance Regulator",
+      "Disease Models, Animal",
+      "Drug Screening Assays, Antitumor",
+      "Epithelial Cells",
+      "Female",
+      "Humans",
+      "Lung Neoplasms",
+      "Male",
+      "Mice",
+      "Mice, Inbred NOD",
+      "Mice, SCID",
+      "Organ Culture Techniques",
+      "Organoids",
+      "Respiratory Syncytial Virus Infections",
+      "Respiratory Syncytial Viruses",
+      "Respiratory System",
+      "Xenograft Model Antitumor Assays"
+    ]
+  },
+  {
+    "pmid": "37494474",
+    "title": "Pharmaco-proteogenomic characterization of liver cancer organoids for precision oncology.",
+    "abstract": "Organoid models have the potential to recapitulate the biological and pharmacotypic features of parental tumors. Nevertheless, integrative pharmaco-proteogenomics analysis for drug response features and biomarker investigation for precision therapy of patients with liver cancer are still lacking. We established a patient-derived liver cancer organoid biobank (LICOB) that comprehensively represents the histological and molecular characteristics of various liver cancer types as determined by multiomics profiling, including genomic, epigenomic, transcriptomic, and proteomic analysis. Proteogenomic profiling of LICOB identified proliferative and metabolic organoid subtypes linked to patient prognosis. High-throughput drug screening revealed distinct response patterns of each subtype that were associated with specific multiomics signatures. Through integrative analyses of LICOB pharmaco-proteogenomics data, we identified the molecular features associated with drug responses and predicted potential drug combinations for personalized patient treatment. The synergistic inhibition effect of mTOR inhibitor temsirolimus and the multitargeted tyrosine kinase inhibitor lenvatinib was validated in organoids and patient-derived xenografts models. We also provide a user-friendly web portal to help serve the biomedical research community. Our study is a rich resource for investigation of liver cancer biology and pharmacological dependencies and may help enable functional precision medicine.",
+    "authors": [
+      {
+        "last_name": "Ji",
+        "first_name": "Shuyi",
+        "name": "Shuyi Ji",
+        "affiliation": "Center for Tumor Diagnosis and Therapy, Jinshan Hospital, Fudan University, Shanghai 201508, China.",
+        "orcid": "0009-0002-5348-1234"
+      },
+      {
+        "last_name": "Feng",
+        "first_name": "Li",
+        "name": "Li Feng",
+        "affiliation": "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.",
+        "orcid": "0009-0008-9650-1817"
+      },
+      {
+        "last_name": "Fu",
+        "first_name": "Zile",
+        "name": "Zile Fu",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China.",
+        "orcid": "0000-0001-7479-5772"
+      },
+      {
+        "last_name": "Wu",
+        "first_name": "Gaohua",
+        "name": "Gaohua Wu",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China.",
+        "orcid": "0009-0002-7092-3284"
+      },
+      {
+        "last_name": "Wu",
+        "first_name": "Yingcheng",
+        "name": "Yingcheng Wu",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China.",
+        "orcid": "0000-0001-9473-546X"
+      },
+      {
+        "last_name": "Lin",
+        "first_name": "Youpei",
+        "name": "Youpei Lin",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China.",
+        "orcid": "0000-0002-2914-2075"
+      },
+      {
+        "last_name": "Lu",
+        "first_name": "Dayun",
+        "name": "Dayun Lu",
+        "affiliation": "Department of Analytical Chemistry and CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China."
+      },
+      {
+        "last_name": "Song",
+        "first_name": "Yuanli",
+        "name": "Yuanli Song",
+        "affiliation": "Department of Analytical Chemistry and CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China."
+      },
+      {
+        "last_name": "Cui",
+        "first_name": "Peng",
+        "name": "Peng Cui",
+        "affiliation": "Burning Rock Biotech, Shanghai 201114, China.",
+        "orcid": "0000-0001-8465-4164"
+      },
+      {
+        "last_name": "Yang",
+        "first_name": "Zijian",
+        "name": "Zijian Yang",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Sang",
+        "first_name": "Chen",
+        "name": "Chen Sang",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China.",
+        "orcid": "0000-0003-2746-553X"
+      },
+      {
+        "last_name": "Song",
+        "first_name": "Guohe",
+        "name": "Guohe Song",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Cai",
+        "first_name": "Shangli",
+        "name": "Shangli Cai",
+        "affiliation": "Burning Rock Biotech, Shanghai 201114, China."
+      },
+      {
+        "last_name": "Li",
+        "first_name": "Yuanchuang",
+        "name": "Yuanchuang Li",
+        "affiliation": "D1 Medical Technology, Shanghai 200235, China."
+      },
+      {
+        "last_name": "Lin",
+        "first_name": "Hanqing",
+        "name": "Hanqing Lin",
+        "affiliation": "D1 Medical Technology, Shanghai 200235, China.",
+        "orcid": "0000-0001-9681-1016"
+      },
+      {
+        "last_name": "Zhang",
+        "first_name": "Shu",
+        "name": "Shu Zhang",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Wang",
+        "first_name": "Xiaoying",
+        "name": "Xiaoying Wang",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Qiu",
+        "first_name": "Shuangjian",
+        "name": "Shuangjian Qiu",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Zhang",
+        "first_name": "Xiaoming",
+        "name": "Xiaoming Zhang",
+        "affiliation": "Key Laboratory of Molecular Virology and Immunology, Institut Pasteur of Shanghai, Chinese Academy of Sciences, Shanghai 200031, China.",
+        "orcid": "0000-0001-6732-9132"
+      },
+      {
+        "last_name": "Hua",
+        "first_name": "Guoqiang",
+        "name": "Guoqiang Hua",
+        "affiliation": "Department of Radiation Oncology, and Cancer Institute, Fudan University Shanghai Cancer Center, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Li",
+        "first_name": "Junqiang",
+        "name": "Junqiang Li",
+        "affiliation": "D1 Medical Technology, Shanghai 200235, China.",
+        "orcid": "0000-0002-8705-839X"
+      },
+      {
+        "last_name": "Zhou",
+        "first_name": "Jian",
+        "name": "Jian Zhou",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Dai",
+        "first_name": "Zhi",
+        "name": "Zhi Dai",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Wang",
+        "first_name": "Xiangdong",
+        "name": "Xiangdong Wang",
+        "affiliation": "Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital Institute for Clinical Science, Fudan University Shanghai Medical College, Shanghai 200032, China.",
+        "orcid": "0000-0002-8406-7928"
+      },
+      {
+        "last_name": "Ding",
+        "first_name": "Li",
+        "name": "Li Ding",
+        "affiliation": "Department of Medicine, McDonnell Genome Institute, Siteman Cancer Center, Washington University, St. Louis, MO 63108, USA."
+      },
+      {
+        "last_name": "Wang",
+        "first_name": "Pei",
+        "name": "Pei Wang",
+        "affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, NewYork, NY 10029, USA."
+      },
+      {
+        "last_name": "Gao",
+        "first_name": "Daming",
+        "name": "Daming Gao",
+        "affiliation": "State Key Laboratory of Cell Biology, CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences, Shanghai 200031, China."
+      },
+      {
+        "last_name": "Zhang",
+        "first_name": "Bing",
+        "name": "Bing Zhang",
+        "affiliation": "Lester and Sue Smith Breast Center, Department of Molecular and Human Genetics, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA.",
+        "orcid": "0000-0001-8676-2425"
+      },
+      {
+        "last_name": "Rodriguez",
+        "first_name": "Henry",
+        "name": "Henry Rodriguez",
+        "affiliation": "Office of Cancer Clinical Proteomics Research, Division of Cancer Treatment and Diagnosis, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA."
+      },
+      {
+        "last_name": "Fan",
+        "first_name": "Jia",
+        "name": "Jia Fan",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China."
+      },
+      {
+        "last_name": "Clevers",
+        "first_name": "Hans",
+        "name": "Hans Clevers",
+        "affiliation": "Oncode Institute, Hubrecht Institute and University Medical Center Utrecht, Uppsalalaan 8, 3584CT Utrecht, Netherlands.",
+        "orcid": "0000-0002-3077-5582"
+      },
+      {
+        "last_name": "Zhou",
+        "first_name": "Hu",
+        "name": "Hu Zhou",
+        "affiliation": "Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of Ministry of Education, Fudan University, Shanghai 200032, China.",
+        "orcid": "0000-0001-7006-4737"
+      },
+      {
+        "last_name": "Sun",
+        "first_name": "Yidi",
+        "name": "Yidi Sun",
+        "affiliation": "Institute of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.",
+        "orcid": "0000-0002-4191-2917"
+      },
+      {
+        "last_name": "Gao",
+        "first_name": "Qiang",
+        "name": "Qiang Gao",
+        "affiliation": "Center for Tumor Diagnosis and Therapy, Jinshan Hospital, Fudan University, Shanghai 201508, China.",
+        "orcid": "0000-0002-6695-9906"
+      }
+    ],
+    "journal": "Science translational medicine",
+    "pub_date": "2023",
+    "keywords": [
+      "Humans",
+      "Proteogenomics",
+      "Proteomics",
+      "Precision Medicine",
+      "Liver Neoplasms",
+      "Organoids"
+    ]
+  },
+  {
+    "pmid": "33057820",
+    "title": "Cancer research using organoid technology.",
+    "abstract": "Organoid technology has rapidly transformed basic biomedical research and contributed to significant discoveries in the last decade. With the application of protocols to generate organoids from cancer tissue, organoid technology has opened up new opportunities for cancer research and therapy. Using organoid cultures derived from healthy tissues, different aspects of tumour initiation and progression are widely studied including the role of pathogens or specific cancer genes. Cancer organoid cultures, on the other hand, are applied to generate biobanks, perform drug screens, and study mutational signatures. With the incorporation of cellular components of the tumour microenvironment such as immune cells into the organoid cultures, the technology is now also exploited in the rapidly advancing field of immuno-oncology. In this review, I discuss how organoid technology is currently being utilised in cancer research and what obstacles are still to be overcome for its broader use in anti-cancer therapy.",
+    "authors": [
+      {
+        "last_name": "Kretzschmar",
+        "first_name": "Kai",
+        "name": "Kai Kretzschmar",
+        "affiliation": "Mildred Scheel Early Career Centre (MSNZ) for Cancer Research Würzburg, University Hospital Würzburg, MSNZ/IZKF, Josef-Schneider-Str. 2, 97080, Würzburg, Germany. kai.kretzschmar@uni-wuerzburg.de.",
+        "email": "kai.kretzschmar@uni-wuerzburg.de",
+        "orcid": "0000-0002-4745-6684"
+      }
+    ],
+    "journal": "Journal of molecular medicine (Berlin, Germany)",
+    "pub_date": "2021",
+    "keywords": [
+      "Biological Specimen Banks",
+      "Carcinogenesis",
+      "Cell Transformation, Neoplastic",
+      "DNA Mutational Analysis",
+      "Drug Screening Assays, Antitumor",
+      "Epithelial Cells",
+      "Forecasting",
+      "Genes, Neoplasm",
+      "Humans",
+      "Medical Oncology",
+      "Neoplasm Metastasis",
+      "Neoplasms",
+      "Neoplastic Stem Cells",
+      "Organoids",
+      "Stem Cell Research",
+      "Translational Research, Biomedical",
+      "Tumor Microenvironment"
+    ]
+  }
+]
