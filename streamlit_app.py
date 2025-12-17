@@ -20,16 +20,64 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# Custom CSS
+# Custom CSS for dark mode compatibility
 st.markdown("""
     <style>
+    /* Main container padding */
     .main > div {
         padding-top: 2rem;
     }
-    .stMetric {
-        background-color: #f8f9fa;
+    
+    /* Metric boxes with dark-mode friendly colors */
+    [data-testid="stMetricValue"] {
+        font-size: 2rem;
+        color: #00d4ff !important;
+    }
+    
+    [data-testid="stMetricLabel"] {
+        color: #ffffff !important;
+    }
+    
+    div[data-testid="stMetric"] {
+        background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%);
         padding: 1rem;
+        border-radius: 0.75rem;
+        border: 1px solid #3a7ca5;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    }
+    
+    /* Header styling */
+    h1 {
+        color: #00d4ff !important;
+    }
+    
+    /* Subheader styling */
+    h2, h3 {
+        color: #7dd3fc !important;
+    }
+    
+    /* Table styling for dark mode */
+    .stDataFrame {
+        background-color: #1a1a2e;
         border-radius: 0.5rem;
+    }
+    
+    /* Download button styling */
+    .stDownloadButton > button {
+        background: linear-gradient(135deg, #0ea5e9 0%, #06b6d4 100%);
+        color: white;
+        border: none;
+        padding: 0.75rem 2rem;
+        font-weight: 600;
+    }
+    
+    .stDownloadButton > button:hover {
+        background: linear-gradient(135deg, #0284c7 0%, #0891b2 100%);
+    }
+    
+    /* Sidebar styling */
+    [data-testid="stSidebar"] {
+        background-color: #0f172a;
     }
     </style>
 """, unsafe_allow_html=True)
